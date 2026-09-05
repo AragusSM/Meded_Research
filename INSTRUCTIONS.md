@@ -38,6 +38,20 @@ The first installation can take several minutes. Common setup problems are an ol
 
 ## 5. Connect your model
 
+### Quick tested setup: Groq with GPT-OSS 120B
+
+This project was tested with **Groq** (spelled with a `q`, not xAI's Grok) and the `openai/gpt-oss-120b` model.
+
+1. Create or sign in to a GroqCloud account and open the [Groq API Keys page](https://console.groq.com/keys).
+2. Select **Create API Key**, give it a recognizable name, and copy the key when it is shown.
+3. Start MedVale RAG Lab and select the gear beside **API offline**.
+4. Choose **Groq**. Keep the model as `openai/gpt-oss-120b` and the base URL as `https://api.groq.com/openai/v1`.
+5. Paste the key and select **Verify and save**. The status should change to **API online**.
+
+Groq explains key creation in its [official quickstart](https://console.groq.com/docs/quickstart) and lists `openai/gpt-oss-120b` in its [model documentation](https://console.groq.com/docs/model/openai/gpt-oss-120b). Free-tier availability and rate limits can change. Never put an API key in source code, `.env.example`, a Git commit, an issue, or a screenshot.
+
+### Other providers
+
 1. Find **API offline** in red at the upper-right corner.
 2. Select the gear beside it.
 3. Select Groq, Gemini, OpenRouter, OpenAI, Ollama, or Mock.
