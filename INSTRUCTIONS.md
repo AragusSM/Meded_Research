@@ -1,38 +1,99 @@
 # MedVale RAG Lab: Step-by-Step Tester Guide
 
-This guide assumes you are using Windows and have little or no programming experience.
+This guide is written for Windows, macOS, and Linux testers with little or no programming experience.
 
 ## 1. Install Python
 
-1. Go to <https://www.python.org/downloads/> and download Python 3.10 or newer for Windows.
+MedVale RAG Lab requires Python 3.10 or newer.
+
+### Windows
+
+1. Go to <https://www.python.org/downloads/windows/> and download Python 3.10 or newer.
 2. Open the installer.
 3. Check **Add Python to PATH** on the first screen.
 4. Select **Install Now** and finish the installation.
+
+### macOS
+
+1. Go to <https://www.python.org/downloads/macos/> and download the current Python 3 installer.
+2. Open the downloaded `.pkg` file and follow the installer.
+3. Open **Terminal** from **Applications → Utilities**.
+4. Run `python3 --version`. The result should be Python 3.10 or newer.
+
+### Linux
+
+Open a terminal and install Python, its virtual-environment support, and `pip` using your distribution's package manager.
+
+Ubuntu, Debian, or Linux Mint:
+
+```bash
+sudo apt update
+sudo apt install python3 python3-venv python3-pip
+```
+
+Fedora:
+
+```bash
+sudo dnf install python3 python3-pip
+```
+
+Then run `python3 --version` and confirm that it is Python 3.10 or newer. Package names may differ on other Linux distributions.
 
 ## 2. Download the application
 
 1. On the GitHub repository page, select the green **Code** button.
 2. Select **Download ZIP**.
-3. Right-click the downloaded ZIP and select **Extract All**.
-4. Open the extracted folder. You should see `setup_windows.bat`, `run_windows.bat`, and `README.md`.
+3. Extract the downloaded ZIP. On Windows, right-click it and select **Extract All**. On macOS, double-click it. Most Linux file managers provide an **Extract Here** option.
+4. Open the extracted folder. You should see `README.md`, `INSTRUCTIONS.md`, `requirements.txt`, and `run_app.py`.
 
 Git users may clone the repository instead.
 
 ## 3. Complete the one-time setup
+
+### Windows
 
 1. Double-click `setup_windows.bat`.
 2. If Windows asks whether to run it, confirm only if you downloaded it from the expected MedVale repository.
 3. Wait while it creates a private Python environment and installs the required packages.
 4. When **Setup complete** appears, press any key to close the window.
 
-The first installation can take several minutes. Common setup problems are an old Python version, Python not being added to PATH, or no internet connection.
+### macOS or Linux
+
+1. Open **Terminal**.
+2. Type `cd `, including the space, and drag the extracted MedVale RAG Lab folder into the Terminal window. Press **Return**. Linux users can instead right-click the folder and choose **Open in Terminal** when that option is available.
+3. Run these commands one line at a time:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+The prompt normally begins with `(.venv)` after activation. The first installation can take several minutes and requires an internet connection.
 
 ## 4. Start the application
+
+### Windows
 
 1. Double-click `run_windows.bat`.
 2. Keep the terminal window open while using the application.
 3. Your browser should open <http://127.0.0.1:8090>.
 4. The first launch prepares the bundled MedVale collections and may take longer than later launches.
+
+### macOS or Linux
+
+1. Open **Terminal** in the extracted application folder as described in step 3.
+2. Run these commands:
+
+```bash
+source .venv/bin/activate
+python run_app.py
+```
+
+3. Keep the Terminal window open while using the application.
+4. Open <http://127.0.0.1:8090> in a browser if it does not open automatically.
+5. The first launch prepares the bundled MedVale collections and may take longer than later launches.
 
 `127.0.0.1` means the application is running on your own computer. It is not a public website.
 
@@ -105,15 +166,16 @@ Uploaded files and generated databases remain under the local `data` folder and 
 
 ## 10. Stop or restart
 
-- Stop: click the terminal window and press `Ctrl+C`.
-- Restart later: double-click `run_windows.bat`.
-- Refresh an outdated page after an upgrade: press `Ctrl+F5`.
+- Stop on any platform: select the terminal window and press `Ctrl+C`.
+- Restart on Windows: double-click `run_windows.bat`.
+- Restart on macOS or Linux: open Terminal in the application folder, run `source .venv/bin/activate`, and then run `python run_app.py`.
+- Refresh an outdated page after an upgrade: press `Ctrl+F5` on Windows or Linux, or `Command+Shift+R` on macOS.
 
 ## Troubleshooting
 
 ### The page cannot be reached
 
-Make sure `run_windows.bat` is still open. Wait longer on the first launch, then refresh the page.
+Make sure the application terminal is still open and does not show an error. Wait longer on the first launch, then refresh the page.
 
 ### API remains offline
 
@@ -123,7 +185,12 @@ Make sure `run_windows.bat` is still open. Wait longer on the first launch, then
 
 ### Python was not found
 
-Install Python again and select **Add Python to PATH** in its installer.
+- Windows: install Python again and select **Add Python to PATH** in its installer.
+- macOS or Linux: use `python3` to create the environment. After activating `.venv`, use `python` for the remaining commands.
+
+### The virtual environment could not be created on Linux
+
+On Ubuntu, Debian, or Linux Mint, run `sudo apt install python3-venv` and repeat the setup commands. Other distributions may provide virtual-environment support in a similarly named package.
 
 ### Graph generation partially fails
 
