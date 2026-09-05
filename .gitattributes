@@ -1,0 +1,22 @@
+/.gitattributes text eol=lf
+* whitespace=-blank-at-eof
+medrag/static/vendor/** -diff whitespace=-blank-at-eof,-trailing-space,-space-before-tab
+
+*.pdf binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.npy binary
+*.pkl binary
+
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.bat text eol=crlf

@@ -1,0 +1,1039 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 11388 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 1) Tj ET
+BT /F2 24.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 144.00 714.00 Tm (Medvale Internal Medicine) Tj ET
+BT /F2 22.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 80.28 683.00 Tm (Chapter 2F: Pulmonary Vascular Disease) Tj ET
+BT /F1 12.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 108.00 662.00 Tm (Pulmonary Embolism, DVT, Pulmonary Hypertension, and Cor Pulmonale) Tj ET
+1.000 0.950 0.800 rg 54.00 580.32 504.00 67.68 re f
+0.700 0.450 0.100 RG 0.80 w 54.00 580.32 504.00 67.68 re S
+BT /F2 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 634.00 Tm (Originality note.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 621.58 Tm (This chapter is original Medvale writing. Prior Step-Up and Anki materials were used only as topic) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 609.16 Tm (coverage signals; no copyrighted source images or prose are reproduced. Tables and diagrams below are) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 596.74 Tm (original replacements built for clinical reasoning and graph RAG extraction.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 545.32 Tm (Why this matters clinically) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 524.55 Tm (Pulmonary vascular disease is where lung physiology, venous thrombosis, right-heart mechanics, and) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 511.78 Tm (inpatient decision-making meet. A patient with pulmonary embolism may appear with pleuritic chest pain,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 499.02 Tm (unexplained tachycardia, syncope, isolated hypoxemia, hemoptysis, or shock. A patient with chronic) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 486.25 Tm (pulmonary hypertension may present more slowly with exertional dyspnea, loud P2, presyncope, edema,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 473.48 Tm (abdominal fullness, or progressive exercise intolerance. In both settings, the central clinical question) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 460.71 Tm (is not simply whether pulmonary artery pressure is high; it is whether right ventricular output can keep) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 447.94 Tm (up with pulmonary vascular resistance.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 428.18 Tm (For exam and ward reasoning, pulmonary vascular disease is high yield because the initial tests depend on) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 415.41 Tm (pretest probability and hemodynamic stability. A stable patient with low probability may need PERC or) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 402.64 Tm (D-dimer logic; an unstable patient with suspected massive pulmonary embolism may need immediate bedside) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 389.87 Tm (echo, empiric anticoagulation when safe, and reperfusion consideration before a perfect diagnostic) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 377.10 Tm (sequence is available.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 344.10 Tm (Core illness scripts) Tj ET
+0.043 0.310 0.424 rg 54.00 312.10 80.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 312.10 80.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 326.10 Tm (Syndrome) Tj ET
+0.043 0.310 0.424 rg 134.00 312.10 170.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 134.00 312.10 170.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 138.00 326.10 Tm (Typical story) Tj ET
+0.043 0.310 0.424 rg 304.00 312.10 155.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 304.00 312.10 155.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 308.00 326.10 Tm (Key diagnostic anchor) Tj ET
+0.043 0.310 0.424 rg 459.00 312.10 99.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 459.00 312.10 99.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 463.00 326.10 Tm (Immediate danger) Tj ET
+0.970 0.980 0.990 rg 54.00 238.05 80.00 74.05 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 238.05 80.00 74.05 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 301.10 Tm (Acute pulmonary) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 291.95 Tm (embolism) Tj ET
+0.970 0.980 0.990 rg 134.00 238.05 170.00 74.05 re f
+0.650 0.700 0.750 RG 0.35 w 134.00 238.05 170.00 74.05 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 301.10 Tm (Abrupt dyspnea, pleuritic chest pain,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 291.95 Tm (tachycardia, hypoxemia, syncope,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 282.80 Tm (hemoptysis, or unexplained respiratory) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 273.65 Tm (alkalosis after risk exposure such as) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 264.50 Tm (surgery, immobility, malignancy,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 255.35 Tm (pregnancy/postpartum state, estrogen) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 246.20 Tm (therapy, thrombophilia, or prior VTE.) Tj ET
+0.970 0.980 0.990 rg 304.00 238.05 155.00 74.05 re f
+0.650 0.700 0.750 RG 0.35 w 304.00 238.05 155.00 74.05 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 301.10 Tm (Clinical probability plus D-dimer or) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 291.95 Tm (imaging. CTPA is common first-line) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 282.80 Tm (imaging in stable patients; V/Q scan) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 273.65 Tm (helps when CTPA is undesirable.) Tj ET
+0.970 0.980 0.990 rg 459.00 238.05 99.00 74.05 re f
+0.650 0.700 0.750 RG 0.35 w 459.00 238.05 99.00 74.05 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 301.10 Tm (Right ventricular) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 291.95 Tm (strain, obstructive) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 282.80 Tm (shock, cardiac arrest,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 273.65 Tm (recurrent embolization.) Tj ET
+1.000 1.000 1.000 rg 54.00 191.45 80.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 191.45 80.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 227.05 Tm (Deep venous) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 217.90 Tm (thrombosis) Tj ET
+1.000 1.000 1.000 rg 134.00 191.45 170.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 134.00 191.45 170.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 227.05 Tm (Unilateral leg swelling, pain, warmth,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 217.90 Tm (erythema, or asymmetry; may be silent.) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 208.75 Tm (Proximal clot is more likely to embolize) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 199.60 Tm (than isolated distal calf clot.) Tj ET
+1.000 1.000 1.000 rg 304.00 191.45 155.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 304.00 191.45 155.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 227.05 Tm (Compression ultrasonography; repeat) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 217.90 Tm (imaging can be used when suspicion) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 208.75 Tm (remains high after an initial negative) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 199.60 Tm (proximal study.) Tj ET
+1.000 1.000 1.000 rg 459.00 191.45 99.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 459.00 191.45 99.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 227.05 Tm (PE, post-thrombotic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 217.90 Tm (syndrome,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 208.75 Tm (anticoagulation bleeding) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 199.60 Tm (complications.) Tj ET
+0.970 0.980 0.990 rg 54.00 144.85 80.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 144.85 80.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 180.45 Tm (Pulmonary arterial) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 171.30 Tm (hypertension) Tj ET
+0.970 0.980 0.990 rg 134.00 144.85 170.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 134.00 144.85 170.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 180.45 Tm (Progressive exertional dyspnea, fatigue,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 171.30 Tm (chest pressure, presyncope or syncope, loud) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 162.15 Tm (P2, RV heave, tricuspid regurgitation) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 153.00 Tm (murmur, edema.) Tj ET
+0.970 0.980 0.990 rg 304.00 144.85 155.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 304.00 144.85 155.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 180.45 Tm (Echocardiography screens; right heart) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 171.30 Tm (catheterization confirms hemodynamics) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 162.15 Tm (and classifies severity.) Tj ET
+0.970 0.980 0.990 rg 459.00 144.85 99.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 459.00 144.85 99.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 180.45 Tm (Progressive RV failure) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 171.30 Tm (and sudden) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 162.15 Tm (decompensation.) Tj ET
+1.000 1.000 1.000 rg 54.00 89.10 80.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 89.10 80.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 133.85 Tm (Cor pulmonale) Tj ET
+1.000 1.000 1.000 rg 134.00 89.10 170.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 134.00 89.10 170.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 133.85 Tm (Chronic lung disease or hypoxemia with) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 124.70 Tm (right-sided congestion: JVD, hepatomegaly,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 115.55 Tm (ascites, edema, loud P2, RV lift. COPD,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 106.40 Tm (ILD, OSA/OHS, and chronic thromboembolic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 138.00 97.25 Tm (disease are common mechanisms.) Tj ET
+1.000 1.000 1.000 rg 304.00 89.10 155.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 304.00 89.10 155.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 133.85 Tm (Evidence of lung disease plus RV) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 124.70 Tm (enlargement/dysfunction and pulmonary) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 308.00 115.55 Tm (hypertension physiology.) Tj ET
+1.000 1.000 1.000 rg 459.00 89.10 99.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 459.00 89.10 99.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 133.85 Tm (Volume-sensitive RV) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 124.70 Tm (failure, worsening gas) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 115.55 Tm (exchange, arrhythmias,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 106.40 Tm (renal/hepatic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 463.00 97.25 Tm (congestion.) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 9499 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 2) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 712.00 Tm (Pathophysiology: from clot to right-heart failure) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 691.23 Tm (A pulmonary embolus raises pulmonary vascular resistance by physically blocking arterial flow and by) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 678.46 Tm (triggering vasoconstriction through hypoxemia, platelet mediators, and neurohumoral responses. The right) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 665.70 Tm (ventricle is adapted to a low-pressure circuit. A sudden afterload rise can dilate the right ventricle,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 652.93 Tm (stretch the tricuspid annulus, reduce RV systolic output, and shift the interventricular septum toward) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 640.16 Tm (the left ventricle. That septal shift reduces left ventricular filling, lowering systemic blood pressure.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 627.39 Tm (This is why massive PE is an obstructive shock state rather than a primary lung-only problem.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 607.62 Tm (Gas exchange in PE is variable. Many patients develop an increased alveolar-arterial oxygen gradient) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 594.86 Tm (because ventilated alveoli are underperfused and because regional atelectasis or low mixed venous oxygen) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 582.09 Tm (content worsens arterial oxygenation. A normal oxygen saturation does not exclude PE. Hyperventilation) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 569.32 Tm (can produce low PaCO2 early. In suspected PE, hypotension, syncope, rising lactate, high troponin,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 556.55 Tm (elevated BNP, or echo evidence of RV strain suggests a clot burden or physiologic response large enough) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 543.78 Tm (to threaten circulation.) Tj ET
+0.920 0.970 0.970 rg 54.00 418.78 504.00 118.00 re f
+0.043 0.310 0.424 RG 0.70 w 54.00 418.78 504.00 118.00 re S
+BT /F2 9.40 Tf 0.043 0.310 0.424 rg 1 0 0 1 64.00 521.78 Tm (Original mechanism diagram: acute PE as an RV afterload problem) Tj ET
+0.880 0.970 1.000 rg 64.00 474.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 64.00 474.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 495.78 Tm (Venous thrombus forms) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 216.00 486.78 Tm (->) Tj ET
+0.880 0.970 1.000 rg 232.00 474.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 232.00 474.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 236.00 495.78 Tm (Embolus reaches pulmonary artery) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 384.00 486.78 Tm (->) Tj ET
+0.880 0.970 1.000 rg 400.00 474.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 400.00 474.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 495.78 Tm (Pulmonary vascular resistance) Tj ET
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 486.98 Tm (rises) Tj ET
+0.880 0.970 1.000 rg 64.00 426.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 64.00 426.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 447.78 Tm (Right ventricle dilates and) Tj ET
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 438.98 Tm (strains) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 216.00 438.78 Tm (->) Tj ET
+0.880 0.970 1.000 rg 232.00 426.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 232.00 426.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 236.00 447.78 Tm (LV preload falls) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 384.00 438.78 Tm (->) Tj ET
+0.880 0.970 1.000 rg 400.00 426.78 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 400.00 426.78 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 447.78 Tm (Hypotension or shock) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 382.78 Tm (Diagnostic approach to suspected pulmonary embolism) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 362.02 Tm (The first branch point is stability. If the patient is hypotensive, peri-arrest, or has severe persistent) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 349.25 Tm (shock physiology, the diagnostic pathway becomes compressed. Bedside echocardiography, lower-extremity) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 336.48 Tm (ultrasound, ECG, chest radiograph, ABG/VBG, lactate, and troponin/BNP can support the diagnosis while) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 323.71 Tm (clinicians prepare anticoagulation or reperfusion if bleeding risk allows. If the patient is stable, the) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 310.94 Tm (goal is to avoid both missed PE and unnecessary CT pulmonary angiography. That requires explicit pretest) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 298.18 Tm (probability.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 278.41 Tm (Pretest probability tools do not diagnose PE; they organize uncertainty. The Wells score assigns points) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 265.64 Tm (to clinical DVT signs, PE as the most likely diagnosis, heart rate over 100/min, recent surgery or) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 252.87 Tm (immobilization, prior VTE, hemoptysis, and malignancy. A low-probability patient who meets all PERC) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 240.10 Tm (criteria may need no D-dimer. PERC is intended only when the clinician already believes the patient is) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 227.34 Tm (low risk. It includes age under 50 years, heart rate under 100/min, oxygen saturation at least 95%, no) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 214.57 Tm (hemoptysis, no estrogen use, no prior VTE, no unilateral leg swelling, and no recent surgery or trauma.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 201.80 Tm (If probability is not low or PERC is not satisfied, D-dimer or imaging follows depending on clinical) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 189.03 Tm (probability.) Tj ET
+0.043 0.310 0.424 rg 54.00 158.03 130.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 158.03 130.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 172.03 Tm (Clinical state) Tj ET
+0.043 0.310 0.424 rg 184.00 158.03 210.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 184.00 158.03 210.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 188.00 172.03 Tm (Reasonable next step) Tj ET
+0.043 0.310 0.424 rg 394.00 158.03 164.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 394.00 158.03 164.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 398.00 172.03 Tm (Interpretation) Tj ET
+0.970 0.980 0.990 rg 54.00 102.28 130.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 102.28 130.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 147.03 Tm (Unstable patient with high) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 137.88 Tm (suspicion) Tj ET
+0.970 0.980 0.990 rg 184.00 102.28 210.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 102.28 210.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 147.03 Tm (Resuscitate, bedside echo for RV strain, consider) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 137.88 Tm (CTPA only if safe. Start anticoagulation if no major) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 128.73 Tm (contraindication; consider systemic thrombolysis,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 119.58 Tm (catheter-directed therapy, or embolectomy for high-) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 110.43 Tm (risk PE.) Tj ET
+0.970 0.980 0.990 rg 394.00 102.28 164.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 394.00 102.28 164.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 147.03 Tm (Do not delay life-saving therapy for a) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 137.88 Tm (perfect test when PE is causing) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 128.73 Tm (obstructive shock.) Tj ET
+1.000 1.000 1.000 rg 54.00 64.83 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 64.83 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 91.28 Tm (Low probability and PERC) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 82.13 Tm (negative) Tj ET
+1.000 1.000 1.000 rg 184.00 64.83 210.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 64.83 210.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 91.28 Tm (No D-dimer and no imaging in the correct clinical) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 82.13 Tm (context.) Tj ET
+1.000 1.000 1.000 rg 394.00 64.83 164.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 394.00 64.83 164.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 91.28 Tm (This is a rule-out strategy for very low-) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 82.13 Tm (risk patients, not a universal screening) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 72.98 Tm (checklist.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 10936 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 3) Tj ET
+0.043 0.310 0.424 rg 54.00 714.00 130.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 714.00 130.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 728.00 Tm (Clinical state) Tj ET
+0.043 0.310 0.424 rg 184.00 714.00 210.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 184.00 714.00 210.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 188.00 728.00 Tm (Reasonable next step) Tj ET
+0.043 0.310 0.424 rg 394.00 714.00 164.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 394.00 714.00 164.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 398.00 728.00 Tm (Interpretation) Tj ET
+0.970 0.980 0.990 rg 54.00 676.55 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 676.55 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 703.00 Tm (Low/intermediate probability but) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 693.85 Tm (PERC positive or not applicable) Tj ET
+0.970 0.980 0.990 rg 184.00 676.55 210.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 676.55 210.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 703.00 Tm (High-sensitivity D-dimer. Age-adjusted D-dimer may be) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 693.85 Tm (used in patients over 50 in many pathways.) Tj ET
+0.970 0.980 0.990 rg 394.00 676.55 164.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 394.00 676.55 164.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 703.00 Tm (Negative D-dimer can rule out PE when) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 693.85 Tm (pretest probability is not high. Positive) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 684.70 Tm (D-dimer is nonspecific.) Tj ET
+1.000 1.000 1.000 rg 54.00 629.95 130.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 629.95 130.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 665.55 Tm (High probability or positive) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 656.40 Tm (D-dimer) Tj ET
+1.000 1.000 1.000 rg 184.00 629.95 210.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 629.95 210.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 665.55 Tm (CT pulmonary angiography when renal function/contrast) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 656.40 Tm (tolerance and pregnancy considerations allow. V/Q) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 647.25 Tm (scan if CTPA is undesirable and chest radiograph is) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 638.10 Tm (suitable.) Tj ET
+1.000 1.000 1.000 rg 394.00 629.95 164.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 394.00 629.95 164.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 665.55 Tm (A negative D-dimer should not be used to) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 398.00 656.40 Tm (dismiss high-probability PE.) Tj ET
+0.910 0.970 0.930 rg 54.00 539.85 504.00 80.10 re f
+0.180 0.420 0.310 RG 0.80 w 54.00 539.85 504.00 80.10 re S
+BT /F2 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 605.95 Tm (Numeric anchors for graph RAG.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 593.53 Tm (Heart rate over 100/min appears in Wells reasoning and PERC exclusion. Oxygen saturation below 95% fails) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 581.11 Tm (PERC. Age-adjusted D-dimer is commonly calculated as age x 10 ng/mL FEU for patients older than 50 when) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 568.69 Tm (FEU units are used. Therapeutic anticoagulation for acute VTE generally has a minimum treatment phase of) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 64.00 556.27 Tm (3 months unless bleeding risk, contraindication, or goals-of-care issues dominate.) Tj ET
+BT /F2 13.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 511.85 Tm (Imaging and laboratory interpretation) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 491.08 Tm (CT pulmonary angiography directly visualizes intraluminal filling defects and can identify alternate) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 478.31 Tm (diagnoses such as pneumonia, pneumothorax, aortic disease, or malignancy. V/Q scanning is useful when) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 465.55 Tm (contrast should be avoided, especially in patients with severe contrast allergy, significant renal) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 452.78 Tm (limitations, or pregnancy-specific imaging pathways. A normal chest radiograph makes V/Q interpretation) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 440.01 Tm (more useful; extensive underlying lung disease can make the scan nondiagnostic. Lower-extremity) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 427.24 Tm (compression ultrasound may establish VTE when PE imaging is delayed or unsafe; finding a proximal DVT in) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 414.47 Tm (a patient with PE symptoms often justifies treatment even if chest imaging is not immediately available.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 394.71 Tm (ECG findings are neither sensitive nor specific. Sinus tachycardia is common. Right heart strain) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 381.94 Tm (patterns, right axis deviation, T-wave inversions in V1-V4, incomplete or complete right bundle branch) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 369.17 Tm (block, and the classic S1Q3T3 pattern can appear but should not be required. Troponin and BNP are risk) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 356.40 Tm (markers rather than diagnostic tests. Elevation suggests RV myocardial stretch or injury and helps) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 343.63 Tm (identify intermediate-risk PE when blood pressure is preserved.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 310.63 Tm (Risk stratification of confirmed PE) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 289.87 Tm (After PE is diagnosed, the next question is physiologic risk. High-risk PE is defined by hemodynamic) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 277.10 Tm (instability such as sustained hypotension, shock, or cardiac arrest attributable to PE. Intermediate-risk) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 264.33 Tm (PE has preserved systemic pressure but evidence of RV dysfunction, myocardial injury, or clinical) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 251.56 Tm (severity. Low-risk PE lacks these high-risk features and may be appropriate for early discharge in) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 238.79 Tm (selected patients with reliable follow-up, low bleeding risk, and adequate home support.) Tj ET
+0.043 0.310 0.424 rg 54.00 207.79 120.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 207.79 120.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 221.79 Tm (Risk category) Tj ET
+0.043 0.310 0.424 rg 174.00 207.79 185.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 174.00 207.79 185.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 178.00 221.79 Tm (Typical findings) Tj ET
+0.043 0.310 0.424 rg 359.00 207.79 199.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 359.00 207.79 199.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 363.00 221.79 Tm (Management logic) Tj ET
+0.970 0.980 0.990 rg 54.00 161.19 120.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 161.19 120.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 196.79 Tm (High-risk / massive PE) Tj ET
+0.970 0.980 0.990 rg 174.00 161.19 185.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 161.19 185.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 196.79 Tm (Hypotension, shock, need for vasopressors,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 187.64 Tm (cardiac arrest, severe RV failure.) Tj ET
+0.970 0.980 0.990 rg 359.00 161.19 199.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 359.00 161.19 199.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 196.79 Tm (Immediate anticoagulation if possible plus) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 187.64 Tm (reperfusion consideration: systemic thrombolysis,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 178.49 Tm (catheter-directed intervention, surgical) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 169.34 Tm (embolectomy, or ECMO bridge in selected centers.) Tj ET
+1.000 1.000 1.000 rg 54.00 114.59 120.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 114.59 120.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 150.19 Tm (Intermediate-risk /) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 141.04 Tm (submassive PE) Tj ET
+1.000 1.000 1.000 rg 174.00 114.59 185.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 114.59 185.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 150.19 Tm (Normotensive but RV strain on echo/CT, positive) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 141.04 Tm (troponin or BNP, high clinical severity, or) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 131.89 Tm (worsening oxygenation.) Tj ET
+1.000 1.000 1.000 rg 359.00 114.59 199.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 359.00 114.59 199.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 150.19 Tm (Anticoagulation and close monitoring. Rescue) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 141.04 Tm (thrombolysis or catheter therapy if decompensation) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 131.89 Tm (occurs. Routine thrombolysis is limited by) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 122.74 Tm (bleeding risk.) Tj ET
+0.970 0.980 0.990 rg 54.00 77.14 120.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 77.14 120.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 103.59 Tm (Low-risk PE) Tj ET
+0.970 0.980 0.990 rg 174.00 77.14 185.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 77.14 185.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 103.59 Tm (Stable vitals, no RV strain, no biomarker) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 94.44 Tm (injury, low clinical severity, low bleeding) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 85.29 Tm (risk.) Tj ET
+0.970 0.980 0.990 rg 359.00 77.14 199.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 359.00 77.14 199.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 103.59 Tm (Anticoagulation. Selected patients may be) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 94.44 Tm (outpatient candidates when social and follow-up) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 363.00 85.29 Tm (criteria are strong.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 13519 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 4) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 712.00 Tm (Management of acute PE and DVT) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 691.23 Tm (Anticoagulation prevents clot extension and recurrent embolization while the body organizes and lyses) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 678.46 Tm (thrombus. It does not instantly dissolve most clot. For stable patients without contraindications, direct) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 665.70 Tm (oral anticoagulants are commonly used because they avoid routine INR monitoring and have predictable) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 652.93 Tm (dosing. Unfractionated heparin is favored when rapid reversal may be needed, when procedures are likely,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 640.16 Tm (in severe renal failure, or in unstable patients who may need thrombolysis or embolectomy. Low-molecular-) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 627.39 Tm (weight heparin remains useful in pregnancy and selected malignancy-associated thrombosis scenarios.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 614.62 Tm (Warfarin requires bridging at initiation for acute VTE because early vitamin K antagonist therapy can) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 601.86 Tm (transiently reduce protein C and S before full anticoagulant effect.) Tj ET
+0.043 0.310 0.424 rg 54.00 570.86 120.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 570.86 120.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 584.86 Tm (Therapy) Tj ET
+0.043 0.310 0.424 rg 174.00 570.86 205.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 174.00 570.86 205.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 178.00 584.86 Tm (When it fits) Tj ET
+0.043 0.310 0.424 rg 379.00 570.86 179.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 379.00 570.86 179.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 383.00 584.86 Tm (Important limitations) Tj ET
+0.970 0.980 0.990 rg 54.00 515.11 120.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 515.11 120.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 559.86 Tm (DOACs such as apixaban or) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 550.71 Tm (rivaroxaban) Tj ET
+0.970 0.980 0.990 rg 174.00 515.11 205.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 515.11 205.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 559.86 Tm (Many stable nonpregnant adults with adequate) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 550.71 Tm (renal/hepatic function and no major drug) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 541.56 Tm (interactions.) Tj ET
+0.970 0.980 0.990 rg 379.00 515.11 179.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 379.00 515.11 179.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 559.86 Tm (Avoid or individualize in pregnancy, severe) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 550.71 Tm (renal disease, high-risk antiphospholipid) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 541.56 Tm (syndrome, major interacting medications, and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 532.41 Tm (selected extremes of body size or absorption) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 523.26 Tm (issues.) Tj ET
+1.000 1.000 1.000 rg 54.00 477.66 120.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 477.66 120.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 504.11 Tm (Unfractionated heparin) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 494.96 Tm (infusion) Tj ET
+1.000 1.000 1.000 rg 174.00 477.66 205.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 477.66 205.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 504.11 Tm (Hemodynamic instability, high bleeding concern with) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 494.96 Tm (need for rapid stop/reversal, severe renal) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 485.81 Tm (impairment, or likely procedure.) Tj ET
+1.000 1.000 1.000 rg 379.00 477.66 179.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 379.00 477.66 179.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 504.11 Tm (Requires aPTT or anti-Xa monitoring; HIT) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 494.96 Tm (risk; hospitalization.) Tj ET
+0.970 0.980 0.990 rg 54.00 449.36 120.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 449.36 120.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 466.66 Tm (LMWH) Tj ET
+0.970 0.980 0.990 rg 174.00 449.36 205.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 449.36 205.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 466.66 Tm (Pregnancy-associated VTE, selected cancer-associated) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 457.51 Tm (VTE, predictable parenteral therapy.) Tj ET
+0.970 0.980 0.990 rg 379.00 449.36 179.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 379.00 449.36 179.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 466.66 Tm (Renal dose adjustment; injections; cost;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 457.51 Tm (monitoring in special populations.) Tj ET
+1.000 1.000 1.000 rg 54.00 411.91 120.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 411.91 120.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 438.36 Tm (Warfarin) Tj ET
+1.000 1.000 1.000 rg 174.00 411.91 205.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 411.91 205.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 438.36 Tm (Mechanical valves, antiphospholipid syndrome in many) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 429.21 Tm (cases, cost/access limitations, severe renal disease) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 420.06 Tm (when DOACs are unsuitable.) Tj ET
+1.000 1.000 1.000 rg 379.00 411.91 179.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 379.00 411.91 179.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 438.36 Tm (Requires INR monitoring, food/drug) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 429.21 Tm (interactions, bridging for acute VTE.) Tj ET
+0.970 0.980 0.990 rg 54.00 374.46 120.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 374.46 120.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 400.91 Tm (IVC filter) Tj ET
+0.970 0.980 0.990 rg 174.00 374.46 205.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 174.00 374.46 205.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 400.91 Tm (Acute proximal DVT/PE with absolute contraindication) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 391.76 Tm (to anticoagulation, or recurrent PE despite adequate) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 178.00 382.61 Tm (anticoagulation in selected cases.) Tj ET
+0.970 0.980 0.990 rg 379.00 374.46 179.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 379.00 374.46 179.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 400.91 Tm (Does not treat existing clot and can increase) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 391.76 Tm (DVT/filter thrombosis risk; retrieve when no) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 383.00 382.61 Tm (longer needed.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 351.69 Tm (Duration is a recurrence-versus-bleeding decision. A transient major provoking factor such as surgery) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 338.92 Tm (often supports a finite 3-month treatment phase. Unprovoked proximal DVT or PE, persistent risk factors,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 326.15 Tm (active cancer, recurrent VTE, or chronic thromboembolic disease often push toward extended therapy if) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 313.38 Tm (bleeding risk is acceptable. Distal isolated DVT may be anticoagulated or monitored with serial) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 300.62 Tm (ultrasound depending on symptoms, extension risk, and patient factors. The exam trap is to treat every) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 287.85 Tm (clot forever or to stop all anticoagulation at discharge.) Tj ET
+0.043 0.310 0.424 rg 54.00 256.85 140.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 256.85 140.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 270.85 Tm (Scenario) Tj ET
+0.043 0.310 0.424 rg 194.00 256.85 160.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 194.00 256.85 160.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 198.00 270.85 Tm (Typical duration logic) Tj ET
+0.043 0.310 0.424 rg 354.00 256.85 204.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 354.00 256.85 204.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 358.00 270.85 Tm (Reasoning) Tj ET
+0.970 0.980 0.990 rg 54.00 219.40 140.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 219.40 140.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 245.85 Tm (VTE provoked by major transient) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 236.70 Tm (risk factor) Tj ET
+0.970 0.980 0.990 rg 194.00 219.40 160.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 194.00 219.40 160.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 245.85 Tm (Usually 3 months.) Tj ET
+0.970 0.980 0.990 rg 354.00 219.40 204.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 354.00 219.40 204.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 245.85 Tm (Risk falls after the trigger resolves; extended) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 236.70 Tm (therapy may add bleeding without enough recurrence) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 227.55 Tm (benefit.) Tj ET
+1.000 1.000 1.000 rg 54.00 191.10 140.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 191.10 140.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 208.40 Tm (Unprovoked proximal DVT or PE) Tj ET
+1.000 1.000 1.000 rg 194.00 191.10 160.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 194.00 191.10 160.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 208.40 Tm (At least 3 months, then reassess for) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 199.25 Tm (extended therapy.) Tj ET
+1.000 1.000 1.000 rg 354.00 191.10 204.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 354.00 191.10 204.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 208.40 Tm (Recurrence risk persists after stopping) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 199.25 Tm (anticoagulation.) Tj ET
+0.970 0.980 0.990 rg 54.00 153.65 140.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 153.65 140.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 180.10 Tm (Active cancer-associated VTE) Tj ET
+0.970 0.980 0.990 rg 194.00 153.65 160.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 194.00 153.65 160.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 180.10 Tm (Extended therapy while cancer is active) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 170.95 Tm (or treatment continues, if bleeding risk) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 161.80 Tm (permits.) Tj ET
+0.970 0.980 0.990 rg 354.00 153.65 204.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 354.00 153.65 204.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 180.10 Tm (Malignancy is a persistent prothrombotic state.) Tj ET
+1.000 1.000 1.000 rg 54.00 107.05 140.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 107.05 140.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 142.65 Tm (Pregnancy-associated VTE) Tj ET
+1.000 1.000 1.000 rg 194.00 107.05 160.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 194.00 107.05 160.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 142.65 Tm (Therapy through pregnancy and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 133.50 Tm (postpartum; minimum total duration is) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 124.35 Tm (commonly at least 3 months with at least) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 115.20 Tm (6 weeks postpartum coverage.) Tj ET
+1.000 1.000 1.000 rg 354.00 107.05 204.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 354.00 107.05 204.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 142.65 Tm (Pregnancy and early postpartum are high-risk) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 133.50 Tm (hypercoagulable periods.) Tj ET
+0.970 0.980 0.990 rg 54.00 78.75 140.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 78.75 140.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 96.05 Tm (Recurrent unprovoked VTE) Tj ET
+0.970 0.980 0.990 rg 194.00 78.75 160.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 194.00 78.75 160.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 96.05 Tm (Often indefinite unless bleeding risk is) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 198.00 86.90 Tm (prohibitive.) Tj ET
+0.970 0.980 0.990 rg 354.00 78.75 204.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 354.00 78.75 204.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 96.05 Tm (History of recurrence strongly raises future) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 358.00 86.90 Tm (recurrence risk.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 12410 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 5) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 712.00 Tm (DVT: the venous source and its own clinical problem) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 691.23 Tm (Most clinically important PE begins as thrombus in the deep veins of the legs or pelvis. Virchow triad) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 678.46 Tm (organizes risk: venous stasis, endothelial injury, and hypercoagulability. Stasis occurs with) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 665.70 Tm (immobilization, paralysis, long hospitalization, or heart failure. Endothelial injury follows surgery,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 652.93 Tm (trauma, central venous instrumentation, or inflammation. Hypercoagulability may be acquired, as in) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 640.16 Tm (malignancy, estrogen exposure, pregnancy, nephrotic syndrome, antiphospholipid syndrome, or heparin-) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 627.39 Tm (induced thrombocytopenia; it may also be inherited, as in factor V Leiden or prothrombin gene mutation.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 607.62 Tm (The physical exam cannot reliably exclude DVT. Calf tenderness, edema, warmth, erythema, and asymmetry) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 594.86 Tm (raise suspicion, but many thrombi are silent. Compression ultrasonography is the central test. A) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 582.09 Tm (noncompressible femoral or popliteal vein is diagnostic. If suspicion remains high after a negative) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 569.32 Tm (proximal ultrasound, repeat imaging in about 5 to 7 days is often used to detect extension from calf) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 556.55 Tm (veins into proximal veins. D-dimer is useful only when pretest probability is low enough for a negative) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 543.78 Tm (test to rule out disease.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 510.78 Tm (Pulmonary hypertension: classification and confirmation) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 490.02 Tm (Pulmonary hypertension is not a single disease. It is a hemodynamic finding that requires classification) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 477.25 Tm (because therapy differs dramatically by cause. The current hemodynamic definition uses mean pulmonary) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 464.48 Tm (arterial pressure greater than 20 mm Hg measured by right heart catheterization. Pulmonary arterial) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 451.71 Tm (hypertension also requires elevated pulmonary vascular resistance and a pulmonary arterial wedge pressure) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 438.94 Tm (that does not indicate left-sided filling pressure as the primary driver. Echocardiography estimates) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 426.18 Tm (probability, but right heart catheterization confirms diagnosis, quantifies pressure and resistance,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 413.41 Tm (separates pre-capillary from post-capillary physiology, and guides treatment.) Tj ET
+0.043 0.310 0.424 rg 54.00 382.41 85.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 382.41 85.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 396.41 Tm (WHO group) Tj ET
+0.043 0.310 0.424 rg 139.00 382.41 130.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 139.00 382.41 130.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 143.00 396.41 Tm (Dominant mechanism) Tj ET
+0.043 0.310 0.424 rg 269.00 382.41 145.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 269.00 382.41 145.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 273.00 396.41 Tm (Examples) Tj ET
+0.043 0.310 0.424 rg 414.00 382.41 144.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 414.00 382.41 144.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 418.00 396.41 Tm (Treatment principle) Tj ET
+0.970 0.980 0.990 rg 54.00 326.66 85.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 326.66 85.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 371.41 Tm (Group 1: Pulmonary) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 362.26 Tm (arterial) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 353.11 Tm (hypertension) Tj ET
+0.970 0.980 0.990 rg 139.00 326.66 130.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 139.00 326.66 130.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 371.41 Tm (Pulmonary arteriolar remodeling) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 362.26 Tm (and high pulmonary vascular) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 353.11 Tm (resistance.) Tj ET
+0.970 0.980 0.990 rg 269.00 326.66 145.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 269.00 326.66 145.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 371.41 Tm (Idiopathic, heritable, connective) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 362.26 Tm (tissue disease, congenital heart) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 353.11 Tm (disease, portal hypertension, HIV,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 343.96 Tm (drug/toxin associated.) Tj ET
+0.970 0.980 0.990 rg 414.00 326.66 144.00 55.75 re f
+0.650 0.700 0.750 RG 0.35 w 414.00 326.66 144.00 55.75 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 371.41 Tm (Specialized PAH therapy after expert) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 362.26 Tm (evaluation; vasoreactivity testing) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 353.11 Tm (in selected) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 343.96 Tm (idiopathic/heritable/drug-associated) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 334.81 Tm (disease.) Tj ET
+1.000 1.000 1.000 rg 54.00 289.21 85.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 289.21 85.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 315.66 Tm (Group 2: Left heart) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 306.51 Tm (disease) Tj ET
+1.000 1.000 1.000 rg 139.00 289.21 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 139.00 289.21 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 315.66 Tm (Back pressure from left) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 306.51 Tm (atrial/ventricular disease.) Tj ET
+1.000 1.000 1.000 rg 269.00 289.21 145.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 269.00 289.21 145.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 315.66 Tm (HFpEF, HFrEF, valvular disease,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 306.51 Tm (cardiomyopathy.) Tj ET
+1.000 1.000 1.000 rg 414.00 289.21 144.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 414.00 289.21 144.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 315.66 Tm (Treat left heart disease and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 306.51 Tm (congestion; PAH vasodilators can) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 297.36 Tm (harm selected patients.) Tj ET
+0.970 0.980 0.990 rg 54.00 251.76 85.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 251.76 85.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 278.21 Tm (Group 3: Lung) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 269.06 Tm (disease/hypoxia) Tj ET
+0.970 0.980 0.990 rg 139.00 251.76 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 139.00 251.76 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 278.21 Tm (Hypoxic vasoconstriction,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 269.06 Tm (vascular bed loss, parenchymal) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 259.91 Tm (destruction.) Tj ET
+0.970 0.980 0.990 rg 269.00 251.76 145.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 269.00 251.76 145.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 278.21 Tm (COPD, ILD, OSA, obesity) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 269.06 Tm (hypoventilation, high altitude.) Tj ET
+0.970 0.980 0.990 rg 414.00 251.76 144.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 414.00 251.76 144.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 278.21 Tm (Treat lung disease, hypoxemia,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 269.06 Tm (sleep-disordered breathing; oxygen) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 259.91 Tm (when indicated.) Tj ET
+1.000 1.000 1.000 rg 54.00 205.16 85.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 205.16 85.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 240.76 Tm (Group 4: Pulmonary) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 231.61 Tm (artery obstruction) Tj ET
+1.000 1.000 1.000 rg 139.00 205.16 130.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 139.00 205.16 130.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 240.76 Tm (Chronic organized thromboembolic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 231.61 Tm (obstruction.) Tj ET
+1.000 1.000 1.000 rg 269.00 205.16 145.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 269.00 205.16 145.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 240.76 Tm (CTEPH after PE; chronic thrombotic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 231.61 Tm (or embolic disease.) Tj ET
+1.000 1.000 1.000 rg 414.00 205.16 144.00 46.60 re f
+0.650 0.700 0.750 RG 0.35 w 414.00 205.16 144.00 46.60 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 240.76 Tm (Lifelong anticoagulation; evaluate) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 231.61 Tm (for pulmonary endarterectomy,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 222.46 Tm (balloon angioplasty, and targeted) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 213.31 Tm (therapy.) Tj ET
+0.970 0.980 0.990 rg 54.00 167.71 85.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 167.71 85.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 194.16 Tm (Group 5: Multifactor) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 185.01 Tm (ial/unclear) Tj ET
+0.970 0.980 0.990 rg 139.00 167.71 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 139.00 167.71 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 143.00 194.16 Tm (Mixed mechanisms.) Tj ET
+0.970 0.980 0.990 rg 269.00 167.71 145.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 269.00 167.71 145.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 194.16 Tm (Sarcoidosis, hematologic disorders,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 185.01 Tm (chronic kidney disease, metabolic) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 273.00 175.86 Tm (disorders.) Tj ET
+0.970 0.980 0.990 rg 414.00 167.71 144.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 414.00 167.71 144.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 194.16 Tm (Treat underlying disorder and refer) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 418.00 185.01 Tm (when severe or unexplained.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 144.94 Tm (Symptoms reflect inability to increase cardiac output during exertion. Early disease may have normal) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 132.17 Tm (resting oxygen saturation and a subtle exam. As pulmonary vascular resistance rises, the right ventricle) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 119.40 Tm (hypertrophies and later dilates. Classic findings include a loud pulmonary component of the second heart) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 106.64 Tm (sound, right ventricular heave, tricuspid regurgitation murmur, jugular venous distention, hepatomegaly,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 93.87 Tm (ascites, and peripheral edema. Syncope, especially with exertion, is a high-risk clue because it suggests) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 81.10 Tm (fixed output or arrhythmia during increased demand.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 10160 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 6) Tj ET
+0.920 0.970 0.970 rg 54.00 620.00 504.00 118.00 re f
+0.043 0.310 0.424 RG 0.70 w 54.00 620.00 504.00 118.00 re S
+BT /F2 9.40 Tf 0.043 0.310 0.424 rg 1 0 0 1 64.00 723.00 Tm (Original diagnostic map: pulmonary hypertension) Tj ET
+0.880 0.970 1.000 rg 64.00 676.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 64.00 676.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 697.00 Tm (Echo suggests elevated RV) Tj ET
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 688.20 Tm (pressure) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 216.00 688.00 Tm (->) Tj ET
+0.880 0.970 1.000 rg 232.00 676.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 232.00 676.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 236.00 697.00 Tm (Search for cause) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 384.00 688.00 Tm (->) Tj ET
+0.880 0.970 1.000 rg 400.00 676.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 400.00 676.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 697.00 Tm (Right heart catheterization) Tj ET
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 688.20 Tm (confirms) Tj ET
+0.880 0.970 1.000 rg 64.00 628.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 64.00 628.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 68.00 649.00 Tm (Pre-capillary?) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 216.00 640.00 Tm (->) Tj ET
+0.880 0.970 1.000 rg 232.00 628.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 232.00 628.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 236.00 649.00 Tm (Post-capillary?) Tj ET
+BT /F2 10.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 384.00 640.00 Tm (->) Tj ET
+0.880 0.970 1.000 rg 400.00 628.00 148.00 34.00 re f
+0.150 0.320 0.420 RG 0.60 w 400.00 628.00 148.00 34.00 re S
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 649.00 Tm (Classify WHO group and treat) Tj ET
+BT /F2 8.00 Tf 0.080 0.110 0.160 rg 1 0 0 1 404.00 640.20 Tm (cause) Tj ET
+BT /F2 13.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 591.00 Tm (Chronic thromboembolic pulmonary hypertension) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 570.23 Tm (CTEPH is an important cause of potentially treatable pulmonary hypertension. It occurs when) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 557.46 Tm (thromboembolic material fails to resolve and becomes organized within pulmonary arteries, producing) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 544.70 Tm (chronic obstruction and secondary small-vessel remodeling. Symptoms may appear months to years after) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 531.93 Tm (acute PE, but some patients do not recall a prior embolic event. Persistent dyspnea after PE should not) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 519.16 Tm (be dismissed as deconditioning without reassessment. V/Q scanning is highly useful as a screening test) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 506.39 Tm (for chronic thromboembolic disease; right heart catheterization and pulmonary angiographic imaging define) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 493.62 Tm (hemodynamics and operability. Pulmonary endarterectomy can be curative in suitable proximal disease,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 480.86 Tm (while balloon pulmonary angioplasty and targeted medical therapy can help selected inoperable or residual) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 468.09 Tm (disease.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 435.09 Tm (Cor pulmonale and chronic right ventricular failure) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 414.32 Tm (Cor pulmonale is right ventricular structural or functional change caused by lung disease, pulmonary) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 401.55 Tm (vascular disease, or chronic hypoxemia rather than primary left heart disease. In COPD, emphysema) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 388.78 Tm (destroys vascular bed area while hypoxemia drives pulmonary vasoconstriction. In interstitial lung) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 376.02 Tm (disease, fibrosis reduces capillary cross-sectional area and worsens hypoxemia. In OSA and obesity) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 363.25 Tm (hypoventilation, repeated nocturnal hypoxemia and hypercapnia increase pulmonary vascular tone. Over) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 350.48 Tm (time, the right ventricle faces sustained afterload and moves from adaptive hypertrophy to dilation and) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 337.71 Tm (failure.) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 317.94 Tm (Management is cause-directed. Long-term oxygen therapy improves survival in selected COPD patients with) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 305.18 Tm (severe chronic resting hypoxemia; it also reduces hypoxic pulmonary vasoconstriction. Diuretics relieve) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 292.41 Tm (edema and hepatic congestion but can reduce RV preload too much, worsening output. Bronchodilators,) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 279.64 Tm (smoking cessation, pulmonary rehabilitation, vaccination, treatment of sleep-disordered breathing, and) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 266.87 Tm (management of exacerbations reduce pulmonary stress. PAH-specific vasodilators are not routine therapy) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 254.10 Tm (for ordinary COPD-related pulmonary hypertension and may worsen ventilation-perfusion mismatch in some) Tj ET
+BT /F1 9.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 241.34 Tm (patients.) Tj ET
+0.043 0.310 0.424 rg 54.00 210.34 145.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 210.34 145.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 224.34 Tm (Clinical clue) Tj ET
+0.043 0.310 0.424 rg 199.00 210.34 185.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 199.00 210.34 185.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 203.00 224.34 Tm (Likely implication) Tj ET
+0.043 0.310 0.424 rg 384.00 210.34 174.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 384.00 210.34 174.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 388.00 224.34 Tm (Common pitfall) Tj ET
+0.970 0.980 0.990 rg 54.00 182.04 145.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 182.04 145.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 199.34 Tm (Loud P2 plus exertional syncope) Tj ET
+0.970 0.980 0.990 rg 199.00 182.04 185.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 199.00 182.04 185.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 199.34 Tm (Pulmonary hypertension with limited cardiac) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 190.19 Tm (output reserve.) Tj ET
+0.970 0.980 0.990 rg 384.00 182.04 174.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 182.04 174.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 199.34 Tm (Calling it anxiety or asthma without) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 190.19 Tm (checking RV/pulmonary pressure clues.) Tj ET
+1.000 1.000 1.000 rg 54.00 144.59 145.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 144.59 145.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 171.04 Tm (COPD with JVD, edema, hepatomegaly) Tj ET
+1.000 1.000 1.000 rg 199.00 144.59 185.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 199.00 144.59 185.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 171.04 Tm (Cor pulmonale or mixed left/right heart) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 161.89 Tm (disease.) Tj ET
+1.000 1.000 1.000 rg 384.00 144.59 174.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 144.59 174.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 171.04 Tm (Giving large diuretic doses without watching) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 161.89 Tm (renal function, bicarbonate, BP, and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 152.74 Tm (preload.) Tj ET
+0.970 0.980 0.990 rg 54.00 116.29 145.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 116.29 145.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 133.59 Tm (Persistent dyspnea after treated PE) Tj ET
+0.970 0.980 0.990 rg 199.00 116.29 185.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 199.00 116.29 185.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 133.59 Tm (CTEPH, recurrent PE, deconditioning, lung) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 124.44 Tm (disease, anemia, or heart disease.) Tj ET
+0.970 0.980 0.990 rg 384.00 116.29 174.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 116.29 174.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 133.59 Tm (Assuming anticoagulation always restores) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 124.44 Tm (baseline symptoms.) Tj ET
+1.000 1.000 1.000 rg 54.00 87.99 145.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 87.99 145.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 105.29 Tm (Hypoxemia worse than expected from) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 96.14 Tm (CXR) Tj ET
+1.000 1.000 1.000 rg 199.00 87.99 185.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 199.00 87.99 185.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 105.29 Tm (PE, pulmonary vascular disease, shunt, early) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 203.00 96.14 Tm (ILD, or measurement artifact.) Tj ET
+1.000 1.000 1.000 rg 384.00 87.99 174.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 87.99 174.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 105.29 Tm (Waiting for classic S1Q3T3 or hemoptysis) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 96.14 Tm (before testing.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 10322 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 7) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 712.00 Tm (High-yield exam clues) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 691.91 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 691.91 Tm (Sudden dyspnea plus pleuritic chest pain plus tachycardia after surgery or immobilization should trigger) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 679.82 Tm (PE probability assessment.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 665.73 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 665.73 Tm (Hypotension with suspected PE means high-risk PE until proven otherwise; bedside echo and reperfusion) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 653.64 Tm (planning may outrank routine D-dimer logic.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 639.55 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 639.55 Tm (Positive D-dimer does not diagnose PE; infection, cancer, age, pregnancy, trauma, surgery, and) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 627.46 Tm (inflammation can elevate it.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 613.37 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 613.37 Tm (Normal oxygen saturation does not exclude PE, especially in young or early presentations.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 599.28 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 599.28 Tm (Right heart catheterization is the confirmation test for pulmonary hypertension; echocardiography is a) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 587.19 Tm (screening and risk tool.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 573.10 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 573.10 Tm (Group 2 pulmonary hypertension from left heart disease is common; do not reflexively treat all pulmonary) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 561.01 Tm (hypertension with PAH vasodilators.) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 546.92 Tm (-) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 546.92 Tm (CTEPH is a treatable cause of pulmonary hypertension and should be considered with persistent dyspnea) Tj ET
+BT /F1 9.30 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 534.83 Tm (after PE.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 502.83 Tm (Common pitfalls) Tj ET
+0.043 0.310 0.424 rg 54.00 470.83 155.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 470.83 155.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 484.83 Tm (Pitfall) Tj ET
+0.043 0.310 0.424 rg 209.00 470.83 175.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 209.00 470.83 175.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 213.00 484.83 Tm (Why it is wrong) Tj ET
+0.043 0.310 0.424 rg 384.00 470.83 174.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 384.00 470.83 174.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 388.00 484.83 Tm (Better reasoning) Tj ET
+0.970 0.980 0.990 rg 54.00 433.38 155.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 433.38 155.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 459.83 Tm (Ordering D-dimer in a high-probability) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 450.68 Tm (PE patient and stopping when it is) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 441.53 Tm (negative.) Tj ET
+0.970 0.980 0.990 rg 209.00 433.38 175.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 209.00 433.38 175.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 459.83 Tm (D-dimer is a rule-out tool in) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 450.68 Tm (low/intermediate probability settings, not a) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 441.53 Tm (high-risk dismissal tool.) Tj ET
+0.970 0.980 0.990 rg 384.00 433.38 174.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 433.38 174.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 459.83 Tm (Use imaging or urgent unstable-patient) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 450.68 Tm (pathway when probability is high.) Tj ET
+1.000 1.000 1.000 rg 54.00 405.08 155.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 405.08 155.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 422.38 Tm (Waiting for hemoptysis, pleuritic pain,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 413.23 Tm (and S1Q3T3 before considering PE.) Tj ET
+1.000 1.000 1.000 rg 209.00 405.08 175.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 209.00 405.08 175.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 422.38 Tm (Most patients lack the full classic triad;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 413.23 Tm (ECG can be nonspecific.) Tj ET
+1.000 1.000 1.000 rg 384.00 405.08 174.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 405.08 174.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 422.38 Tm (Use risk factors, vital signs, oxygenation,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 413.23 Tm (and probability tools.) Tj ET
+0.970 0.980 0.990 rg 54.00 367.63 155.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 367.63 155.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 394.08 Tm (Calling every RV strain PE.) Tj ET
+0.970 0.980 0.990 rg 209.00 367.63 175.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 209.00 367.63 175.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 394.08 Tm (RV strain can come from pulmonary) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 384.93 Tm (hypertension, RV infarct, severe lung) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 375.78 Tm (disease, ARDS, or chronic disease.) Tj ET
+0.970 0.980 0.990 rg 384.00 367.63 174.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 367.63 174.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 394.08 Tm (Integrate history, imaging, biomarkers, and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 384.93 Tm (time course.) Tj ET
+1.000 1.000 1.000 rg 54.00 330.18 155.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 330.18 155.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 356.63 Tm (Treating pulmonary hypertension before) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 347.48 Tm (identifying group.) Tj ET
+1.000 1.000 1.000 rg 209.00 330.18 175.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 209.00 330.18 175.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 356.63 Tm (Group 2 and group 3 disease are common and) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 347.48 Tm (may be harmed by inappropriate vasodilator) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 338.33 Tm (use.) Tj ET
+1.000 1.000 1.000 rg 384.00 330.18 174.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 330.18 174.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 356.63 Tm (Classify with echo, lung/left heart) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 347.48 Tm (evaluation, V/Q where appropriate, and right) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 338.33 Tm (heart catheterization.) Tj ET
+0.970 0.980 0.990 rg 54.00 292.73 155.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 292.73 155.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 319.18 Tm (Over-diuresing cor pulmonale.) Tj ET
+0.970 0.980 0.990 rg 209.00 292.73 175.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 209.00 292.73 175.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 319.18 Tm (RV output can be preload-sensitive;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 310.03 Tm (excessive diuresis may worsen hypotension) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 213.00 300.88 Tm (and kidney function.) Tj ET
+0.970 0.980 0.990 rg 384.00 292.73 174.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 384.00 292.73 174.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 319.18 Tm (Aim for decongestion while monitoring BP,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 388.00 310.03 Tm (renal function, bicarbonate, and symptoms.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 256.73 Tm (Practice questions) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 236.49 Tm (Question 1. A 63-year-old man is 5 days after hip surgery and develops sudden dyspnea, pleuritic chest pain,) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 224.26 Tm (heart rate 118/min, and oxygen saturation 91%. Blood pressure is normal. What is the most appropriate) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 212.02 Tm (diagnostic direction?) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 197.32 Tm (Answer explanation. This patient has substantial PE probability because of recent surgery, tachycardia, hypoxemia,) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 185.61 Tm (and sudden pleuritic symptoms. PERC is not appropriate. If stable and no contraindication exists, CTPA is usually) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 173.91 Tm (the next major diagnostic test; D-dimer is less helpful because probability is not low and postoperative D-dimer) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 162.21 Tm (is often positive.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 141.97 Tm (Question 2. A 28-year-old woman with no VTE history has brief pleuritic chest pain. HR is 76/min, oxygen) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 129.73 Tm (saturation is 99%, no hemoptysis, no estrogen use, no unilateral leg swelling, no recent surgery/trauma, and) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 117.50 Tm (the clinician believes PE probability is low. What tool can prevent unnecessary testing?) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 102.79 Tm (Answer explanation. PERC can be used only in low-risk patients. If all criteria are negative, PE can be ruled out) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 91.09 Tm (without D-dimer or imaging in the correct context.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 8997 >>
+stream
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 757.00 Tm (Medvale Internal Medicine - Pulmonary Medicine) Tj ET
+BT /F1 8.00 Tf 0.350 0.390 0.440 rg 1 0 0 1 453.00 757.00 Tm (Chapter 2F | Page 8) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 725.76 Tm (Question 3. A patient with confirmed PE is normotensive but has RV dilation on echo and elevated troponin.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 713.53 Tm (What risk category does this suggest?) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 698.82 Tm (Answer explanation. Intermediate-risk/submassive PE. Treatment is anticoagulation and close monitoring, with) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 687.12 Tm (rescue reperfusion if deterioration occurs rather than routine thrombolysis for everyone.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 666.88 Tm (Question 4. A patient has exertional syncope, loud P2, RV enlargement on echo, and suspected pulmonary) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 654.65 Tm (hypertension. What test confirms the diagnosis and separates pre-capillary from post-capillary physiology?) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 639.94 Tm (Answer explanation. Right heart catheterization. Echocardiography estimates probability and evaluates RV/valves,) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 628.24 Tm (but catheterization confirms pressures, wedge pressure, cardiac output, and pulmonary vascular resistance.) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 608.00 Tm (Question 5. A COPD patient with chronic hypoxemia develops JVD, edema, hepatomegaly, and loud P2. What is the) Tj ET
+BT /F1 9.20 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 595.77 Tm (unifying diagnosis and management principle?) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 581.06 Tm (Answer explanation. Cor pulmonale. Treat chronic hypoxemia and underlying lung disease, use diuretics carefully) Tj ET
+BT /F1 8.80 Tf 0.350 0.390 0.440 rg 1 0 0 1 54.00 569.36 Tm (for congestion, and avoid assuming all pulmonary hypertension should receive PAH vasodilators.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 535.36 Tm (Graph RAG extraction map) Tj ET
+0.043 0.310 0.424 rg 54.00 503.36 130.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 54.00 503.36 130.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 58.00 517.36 Tm (Node) Tj ET
+0.043 0.310 0.424 rg 184.00 503.36 374.00 24.00 re f
+0.043 0.310 0.424 RG 0.40 w 184.00 503.36 374.00 24.00 re S
+BT /F2 7.50 Tf 1.000 1.000 1.000 rg 1 0 0 1 188.00 517.36 Tm (Important outgoing relationships) Tj ET
+0.970 0.980 0.990 rg 54.00 465.91 130.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 465.91 130.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 492.36 Tm (Pulmonary embolism) Tj ET
+0.970 0.980 0.990 rg 184.00 465.91 374.00 37.45 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 465.91 374.00 37.45 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 492.36 Tm (Caused by venous thromboembolism; increases pulmonary vascular resistance; can cause RV strain,) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 483.21 Tm (hypoxemia, pleuritic pain, syncope, obstructive shock; diagnosed by probability-based pathway;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 474.06 Tm (treated with anticoagulation and sometimes reperfusion.) Tj ET
+1.000 1.000 1.000 rg 54.00 437.61 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 437.61 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 454.91 Tm (DVT) Tj ET
+1.000 1.000 1.000 rg 184.00 437.61 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 437.61 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 454.91 Tm (Risk organized by Virchow triad; proximal DVT embolizes to pulmonary arteries; diagnosed by) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 445.76 Tm (compression ultrasound; treated with anticoagulation or selected surveillance.) Tj ET
+0.970 0.980 0.990 rg 54.00 409.31 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 409.31 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 426.61 Tm (D-dimer) Tj ET
+0.970 0.980 0.990 rg 184.00 409.31 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 409.31 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 426.61 Tm (Fibrin degradation marker; rules out VTE only when pretest probability is low/intermediate;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 417.46 Tm (falsely elevated by age, infection, inflammation, trauma, surgery, pregnancy, malignancy.) Tj ET
+1.000 1.000 1.000 rg 54.00 381.01 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 381.01 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 398.31 Tm (Right ventricle) Tj ET
+1.000 1.000 1.000 rg 184.00 381.01 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 381.01 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 398.31 Tm (Fails acutely when afterload rises in massive PE; remodels chronically in pulmonary hypertension;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 389.16 Tm (preload-sensitive during cor pulmonale decompensation.) Tj ET
+0.970 0.980 0.990 rg 54.00 352.71 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 352.71 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 370.01 Tm (Pulmonary hypertension) Tj ET
+0.970 0.980 0.990 rg 184.00 352.71 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 352.71 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 370.01 Tm (Classified into WHO groups 1-5; screened by echo; confirmed by right heart catheterization;) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 360.86 Tm (causes dyspnea, loud P2, syncope, RV failure.) Tj ET
+1.000 1.000 1.000 rg 54.00 324.41 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 324.41 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 341.71 Tm (CTEPH) Tj ET
+1.000 1.000 1.000 rg 184.00 324.41 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 324.41 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 341.71 Tm (Chronic organized thromboembolic obstruction; follows prior PE or occult emboli; screened with) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 332.56 Tm (V/Q; potentially treatable with endarterectomy, angioplasty, targeted therapy, anticoagulation.) Tj ET
+0.970 0.980 0.990 rg 54.00 296.11 130.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 54.00 296.11 130.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 58.00 313.41 Tm (Cor pulmonale) Tj ET
+0.970 0.980 0.990 rg 184.00 296.11 374.00 28.30 re f
+0.650 0.700 0.750 RG 0.35 w 184.00 296.11 374.00 28.30 re S
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 313.41 Tm (RV dysfunction from lung disease/hypoxemia; caused by COPD, ILD, OSA/OHS, CTEPH; managed with) Tj ET
+BT /F1 7.50 Tf 0.080 0.110 0.160 rg 1 0 0 1 188.00 304.26 Tm (oxygen when indicated, lung disease treatment, careful diuresis.) Tj ET
+BT /F2 16.00 Tf 0.043 0.310 0.424 rg 1 0 0 1 54.00 260.11 Tm (Selected references used for medical cross-checking) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 240.93 Tm (-) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 240.93 Tm (Konstantinides SV, et al. 2019 ESC Guidelines for diagnosis and management of acute pulmonary embolism. European) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 229.75 Tm (Heart Journal. 2020;41:543-603.) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 216.57 Tm (-) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 216.57 Tm (Stevens SM, et al. Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline and Expert Panel) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 205.39 Tm (Report. Chest. 2021;160:e545-e608, with CHEST updates/compendium materials through 2024.) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 192.21 Tm (-) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 192.21 Tm (Humbert M, et al. 2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. European) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 181.03 Tm (Respiratory Journal. 2023;61:2200879.) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 167.85 Tm (-) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 167.85 Tm (Merck Manual Professional Edition. Chronic obstructive pulmonary disease and treatment of stable COPD: oxygen) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 156.67 Tm (therapy and complications including right heart failure.) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 54.00 143.49 Tm (-) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 143.49 Tm (American College of Cardiology. International clinical practice guideline comparison for pulmonary embolism) Tj ET
+BT /F1 8.60 Tf 0.080 0.110 0.160 rg 1 0 0 1 70.00 132.31 Tm (management, 2024.) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R ] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000011601 00000 n 
+0000011738 00000 n 
+0000021289 00000 n 
+0000021426 00000 n 
+0000032415 00000 n 
+0000032552 00000 n 
+0000046124 00000 n 
+0000046262 00000 n 
+0000058726 00000 n 
+0000058865 00000 n 
+0000069079 00000 n 
+0000069218 00000 n 
+0000079594 00000 n 
+0000079733 00000 n 
+0000088783 00000 n 
+0000088922 00000 n 
+0000089029 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+89080
+%%EOF

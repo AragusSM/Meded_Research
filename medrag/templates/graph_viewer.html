@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>MedVale Graph Explorer</title>
+  <script>window.MEDIVALE_GRAPH_DATA={{ graph_data|tojson }};window.MEDIVALE_GRAPH_CONFIG={showInlineHops:false,currentHops:1};</script>
+  <script type="module" src="{{ url_for('static', filename='vendor/medivale_graph/assets/viewer.js', v='controls-3') }}"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='vendor/medivale_graph/assets/viewer.css') }}">
+</head><body>
+  <div id="loading"><div class="loading-card"><div class="arcane-sigil" aria-hidden="true"><span class="sigil-ring sigil-ring-outer"></span><span class="sigil-ring sigil-ring-inner"></span><span class="sigil-diamond"></span><span class="sigil-line sigil-line-a"></span><span class="sigil-line sigil-line-b"></span></div><h1>MedVale Graph Explorer</h1><p>Loading knowledge graph…</p><div class="loading-bar"><div class="loading-bar-fill"></div></div></div></div>
+  <div id="app"></div><div id="panel"><h2>Graph Explorer</h2><p class="muted">Click a concept or relationship to inspect it.</p></div><div id="debug">Loading graph…</div>
+  <script>
+    (() => {
+      let lastConcept = "";
+      const tunePan = setInterval(() => {
+        const controls = window.MEDIVALE_GRAPH_CONTROLS;
+        if (!controls) return;
+        controls.panSpeed = .65;
+        clearInterval(tunePan);
+      }, 100);
+      const reportSelection = () => {
+        const title = document.querySelector("#panel h2")?.textContent?.trim();
+        const node = title && window.MEDIVALE_GRAPH_DATA.nodes.find(item => item.name === title);
+        if (!node || node.id === lastConcept) return;
+        lastConcept = node.id;
+        window.parent.postMessage({type:"medivale-concept-selected", concept_id:node.id, name:node.name}, window.location.origin);
+      };
+      new MutationObserver(reportSelection).observe(document.getElementById("panel"), {childList:true, subtree:true, characterData:true});
+    })();
+  </script>
+</body></html>

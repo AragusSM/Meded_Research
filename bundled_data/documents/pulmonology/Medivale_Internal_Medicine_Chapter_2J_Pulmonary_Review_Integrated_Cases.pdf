@@ -1,0 +1,625 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 5197 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 1) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F2 22 Tf 50.0 738.0 Td (Medvale Internal Medicine - Chapter 2J) Tj ET
+0.07 0.25 0.40 RG
+50 718.0 m 562 718.0 l S
+0 0 0 RG
+BT /F2 13 Tf 50.0 710.0 Td (Pulmonary Review, Integrated Cases, and Diagnostic Algorithms) Tj ET
+0.92 0.97 1.00 rg
+46 618.0 520 76.0 re f
+0.55 0.68 0.76 RG
+46 618.0 520 76.0 re S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.5 Tf 53.0 678.0 Td (Purpose. This closing pulmonary chapter synthesizes Chapters 2A-2I into a problem-based) Tj ET
+BT /F1 9.5 Tf 53.0 666.0 Td (framework for internal medicine learners. It emphasizes diagnosis and management,) Tj ET
+BT /F1 9.5 Tf 53.0 654.0 Td (ED/inpatient decision-making, numerical thresholds, and explicit concept relationships for) Tj ET
+BT /F1 9.5 Tf 53.0 642.0 Td (future graph RAG extraction. The chapter is original Medvale writing; prior sources are used) Tj ET
+BT /F1 9.5 Tf 53.0 630.0 Td (only as coverage signals and accuracy checks.) Tj ET
+0.70 0.78 0.83 RG
+50 617.0 m 562 617.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 605.0 Td (1. Why This Review Chapter Matters Clinically) Tj ET
+BT /F1 9.7 Tf 50.0 585.0 Td (Pulmonary medicine is often tested as a pattern-recognition problem: a patient is dyspneic,) Tj ET
+BT /F1 9.7 Tf 50.0 573.0 Td (hypoxemic, coughing, wheezing, febrile, bleeding, or has an abnormal chest image. The correct) Tj ET
+BT /F1 9.7 Tf 50.0 561.0 Td (answer usually depends on mapping the dominant physiologic problem to the safest next test or) Tj ET
+BT /F1 9.7 Tf 50.0 549.0 Td (treatment. A patient with sudden pleuritic chest pain and syncope is not worked up the same way as) Tj ET
+BT /F1 9.7 Tf 50.0 537.0 Td (a patient with chronic productive cough, a low FEV1/FVC ratio, and recurrent infections. A patient) Tj ET
+BT /F1 9.7 Tf 50.0 525.0 Td (coughing up one tablespoon of blood can often undergo CT-based evaluation, while a patient) Tj ET
+BT /F1 9.7 Tf 50.0 513.0 Td (drowning in blood requires immediate airway protection before the diagnostic workup is complete.) Tj ET
+BT /F1 9.7 Tf 50.0 497.0 Td (This chapter is designed as a capstone. The goal is not to repeat every disease description, but) Tj ET
+BT /F1 9.7 Tf 50.0 485.0 Td (to connect the major pulmonary diseases through symptoms, mechanisms, tests, treatments,) Tj ET
+BT /F1 9.7 Tf 50.0 473.0 Td (complications, and exam clues. Because the NBME-style internal medicine exam emphasizes diagnosis) Tj ET
+BT /F1 9.7 Tf 50.0 461.0 Td (and management more than isolated mechanisms, the highest-yield approach is to ask four questions:) Tj ET
+BT /F1 9.7 Tf 50.0 449.0 Td (Is the patient oxygenating? Is the patient ventilating? Is the process obstructive, restrictive,) Tj ET
+BT /F1 9.7 Tf 50.0 437.0 Td (vascular, infectious, malignant, pleural, or sleep-related? What intervention must occur before) Tj ET
+BT /F1 9.7 Tf 50.0 425.0 Td (the next diagnostic step?) Tj ET
+0.92 0.97 1.00 rg
+46 365.0 520 52.0 re f
+0.55 0.68 0.76 RG
+46 365.0 520 52.0 re S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.5 Tf 53.0 401.0 Td (Core clinical anchor: In pulmonary emergencies, the first branch point is stability.) Tj ET
+BT /F1 9.5 Tf 53.0 389.0 Td (Unstable respiratory patients are managed by airway, breathing, circulation, oxygenation,) Tj ET
+BT /F1 9.5 Tf 53.0 377.0 Td (ventilation, and hemodynamic support before definitive diagnostic elegance.) Tj ET
+0.70 0.78 0.83 RG
+50 364.0 m 562 364.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 352.0 Td (2. Master Symptom Algorithms) Tj ET
+BT /F2 12 Tf 50.0 329.0 Td (2.1 Approach to Acute Dyspnea) Tj ET
+BT /F1 9.7 Tf 50.0 312.0 Td (Acute dyspnea is a time-sensitive symptom because it may represent impending respiratory arrest,) Tj ET
+BT /F1 9.7 Tf 50.0 300.0 Td (shock, pulmonary embolism, pneumothorax, asthma/COPD exacerbation, pneumonia, ARDS, pulmonary) Tj ET
+BT /F1 9.7 Tf 50.0 288.0 Td (edema, or severe metabolic acidosis. The first task is to determine whether the patient is) Tj ET
+BT /F1 9.7 Tf 50.0 276.0 Td (speaking in full sentences, protecting the airway, maintaining oxygen saturation, and generating) Tj ET
+BT /F1 9.7 Tf 50.0 264.0 Td (adequate ventilation. Tachypnea is a warning sign, but respiratory rate alone can mislead: a) Tj ET
+BT /F1 9.7 Tf 50.0 252.0 Td (patient with neuromuscular failure may look deceptively calm while carbon dioxide rises.) Tj ET
+BT /F3 8.2 Tf 56.0 233.0 Td (Acute dyspnea first-pass map Dyspnea + hypotension -------------------> shock branch | PE,) Tj ET
+BT /F3 8.2 Tf 56.0 223.0 Td (  tension pneumothorax, sepsis, cardiogenic edema | +-- wheeze + prolonged expiration ------>) Tj ET
+BT /F3 8.2 Tf 56.0 213.0 Td (  asthma/COPD/bronchospasm branch | +-- fever + infiltrate ----------------->) Tj ET
+BT /F3 8.2 Tf 56.0 203.0 Td (  pneumonia/aspiration branch | +-- pleuritic pain + risk factors ------>) Tj ET
+BT /F3 8.2 Tf 56.0 193.0 Td (  PE/pneumothorax/pleuritis branch | +-- bilateral opacities + low P/F ------> ARDS vs) Tj ET
+BT /F3 8.2 Tf 56.0 183.0 Td (  cardiogenic pulmonary edema branch | +-- chronic dry cough + crackles ------->) Tj ET
+BT /F3 8.2 Tf 56.0 173.0 Td (  ILD/sarcoid/occupational branch) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 6368 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 2) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (Immediate observation Most useful implication Common next action) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (---------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (---------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (----------------------------------------------------------------------- Cannot speak, altered) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (mental status, exhaustion, silent chest Impending ventilatory failure Prepare airway; support) Tj ET
+BT /F1 9.7 Tf 50.0 678.0 Td (ventilation; do not wait for complete workup Hypotension + unilateral absent breath sounds Tension) Tj ET
+BT /F1 9.7 Tf 50.0 666.0 Td (pneumothorax until proven otherwise Needle/finger decompression, then chest tube Hypotension +) Tj ET
+BT /F1 9.7 Tf 50.0 654.0 Td (clear lungs + RV strain Massive PE or obstructive shock Bedside echo, anticoagulation, consider) Tj ET
+BT /F1 9.7 Tf 50.0 642.0 Td (thrombolysis if PE likely Fever + focal crackles + consolidation Pneumonia likely Oxygen, cultures) Tj ET
+BT /F1 9.7 Tf 50.0 630.0 Td (when indicated, empiric antibiotics, severity triage Diffuse wheeze + hyperinflation Obstructive) Tj ET
+BT /F1 9.7 Tf 50.0 618.0 Td (exacerbation Bronchodilators, steroids, oxygen target, NIV if hypercapnic COPD) Tj ET
+BT /F2 12 Tf 50.0 599.0 Td (2.2 Approach to Chronic Dyspnea) Tj ET
+BT /F1 9.7 Tf 50.0 582.0 Td (Chronic dyspnea is best approached by tempo, exposures, spirometry, diffusion capacity, imaging,) Tj ET
+BT /F1 9.7 Tf 50.0 570.0 Td (and cardiac overlap. Obstructive diseases produce airflow limitation, restrictive diseases produce) Tj ET
+BT /F1 9.7 Tf 50.0 558.0 Td (reduced lung volumes, pulmonary vascular disease reduces perfusion and diffusion, and sleep-) Tj ET
+BT /F1 9.7 Tf 50.0 546.0 Td (related disorders may present indirectly through fatigue, resistant hypertension, pulmonary) Tj ET
+BT /F1 9.7 Tf 50.0 534.0 Td (hypertension, or chronic hypercapnia. A normal chest x-ray does not exclude asthma, PE, early ILD,) Tj ET
+BT /F1 9.7 Tf 50.0 522.0 Td (pulmonary hypertension, anemia, or neuromuscular weakness.) Tj ET
+BT /F1 9.7 Tf 50.0 506.0 Td (Pattern Key clues Diagnostic direction Typical treatment direction --------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 494.0 Td (------------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 482.0 Td (----------------------------------------------------------------------- --------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 470.0 Td (-------------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 458.0 Td (Obstructive Wheeze, cough, prolonged expiration, FEV1/FVC below lower limit of normal or often) Tj ET
+BT /F1 9.7 Tf 50.0 446.0 Td (<0.70 Spirometry with bronchodilator testing; consider DLCO Bronchodilators, inhaled steroids when) Tj ET
+BT /F1 9.7 Tf 50.0 434.0 Td (indicated, trigger control, smoking cessation Restrictive/interstitial Dry cough, exertional) Tj ET
+BT /F1 9.7 Tf 50.0 422.0 Td (dyspnea, inspiratory crackles, clubbing, low TLC, low DLCO High-resolution CT; exposure and) Tj ET
+BT /F1 9.7 Tf 50.0 410.0 Td (autoimmune history Remove exposure, disease-specific therapy, antifibrotics for selected IPF,) Tj ET
+BT /F1 9.7 Tf 50.0 398.0 Td (oxygen/transplant referral when advanced Vascular Pleuritic pain, syncope, RV strain, loud P2,) Tj ET
+BT /F1 9.7 Tf 50.0 386.0 Td (unexplained low DLCO CTPA/VQ for PE; echo then right heart cath for pulmonary hypertension) Tj ET
+BT /F1 9.7 Tf 50.0 374.0 Td (Anticoagulation for thromboembolism; pulmonary hypertension group-specific care) Tj ET
+BT /F1 9.7 Tf 50.0 362.0 Td (Sleep/hypoventilation Snoring, witnessed apnea, daytime sleepiness, BMI >=30, awake PaCO2 >45 mmHg) Tj ET
+BT /F1 9.7 Tf 50.0 350.0 Td (in OHS Sleep testing, ABG or serum bicarbonate screening CPAP/BiPAP, weight loss, treat comorbid) Tj ET
+BT /F1 9.7 Tf 50.0 338.0 Td (OSA/COPD/HF) Tj ET
+0.70 0.78 0.83 RG
+50 329.0 m 562 329.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 317.0 Td (3. Cough, Sputum, and Hemoptysis) Tj ET
+BT /F2 12 Tf 50.0 294.0 Td (3.1 Cough Pattern Recognition) Tj ET
+BT /F1 9.7 Tf 50.0 277.0 Td (Cough becomes high-yield when it is paired with duration, sputum quality, fever, wheeze,) Tj ET
+BT /F1 9.7 Tf 50.0 265.0 Td (medication exposure, reflux symptoms, upper airway symptoms, hemoptysis, immune status, and) Tj ET
+BT /F1 9.7 Tf 50.0 253.0 Td (imaging. Acute cough is most commonly infectious but may still represent PE, asthma, aspiration,) Tj ET
+BT /F1 9.7 Tf 50.0 241.0 Td (or heart failure. Chronic cough lasting more than 8 weeks classically raises upper airway cough) Tj ET
+BT /F1 9.7 Tf 50.0 229.0 Td (syndrome, asthma, GERD, nonasthmatic eosinophilic bronchitis, ACE inhibitor use, COPD,) Tj ET
+BT /F1 9.7 Tf 50.0 217.0 Td (bronchiectasis, malignancy, and ILD.) Tj ET
+BT /F1 9.7 Tf 50.0 201.0 Td (Cough clue Strong associations Do not miss --------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 189.0 Td (--------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 177.0 Td (---------------------------------------------------------------------- Chronic productive cough) Tj ET
+BT /F1 9.7 Tf 50.0 165.0 Td (Chronic bronchitis, bronchiectasis, cystic fibrosis, recurrent infection Bronchiectasis with) Tj ET
+BT /F1 9.7 Tf 50.0 153.0 Td (hemoptysis or Pseudomonas risk Dry cough + crackles ILD, IPF, sarcoidosis, drug-induced) Tj ET
+BT /F1 9.7 Tf 50.0 141.0 Td (pneumonitis Hypoxemia and pulmonary hypertension Cough after meals or altered consciousness) Tj ET
+BT /F1 9.7 Tf 50.0 129.0 Td (Aspiration pneumonitis/pneumonia Lung abscess or anaerobic complication when necrosis/empyema) Tj ET
+BT /F1 9.7 Tf 50.0 117.0 Td (present Cough + blood Bronchitis, bronchiectasis, pneumonia, cancer, TB, PE, vasculitis Massive) Tj ET
+BT /F1 9.7 Tf 50.0 105.0 Td (hemoptysis requiring airway-first management Night cough + wheeze Asthma, GERD, postnasal drip) Tj ET
+BT /F1 9.7 Tf 50.0 93.0 Td (Uncontrolled asthma or occupational trigger) Tj ET
+BT /F2 12 Tf 50.0 74.0 Td (3.2 Hemoptysis Algorithm) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 6128 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 3) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (Hemoptysis is expectoration of blood originating below the vocal cords. The first step is to) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (distinguish true hemoptysis from hematemesis, epistaxis, or oral bleeding. True hemoptysis is) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (often bright red and frothy and may be accompanied by cough. Hematemesis is usually associated) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (with nausea, coffee-ground material, or melena. In practice, the most important distinction is not) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (the exact source but whether the airway is threatened.) Tj ET
+BT /F1 9.7 Tf 50.0 674.0 Td (Massive hemoptysis has variable definitions. Common numeric thresholds include approximately 100) Tj ET
+BT /F1 9.7 Tf 50.0 662.0 Td (to 600 mL over 24 hours, but physiology matters more than volume. Small volumes can kill if blood) Tj ET
+BT /F1 9.7 Tf 50.0 650.0 Td (floods the airway, especially in patients with limited pulmonary reserve. The safest exam logic) Tj ET
+BT /F1 9.7 Tf 50.0 638.0 Td (is: airway first, bleeding side down if known, large-bore IV access, correct coagulopathy, isolate) Tj ET
+BT /F1 9.7 Tf 50.0 626.0 Td (the bleeding lung when possible, and involve interventional pulmonology, interventional radiology,) Tj ET
+BT /F1 9.7 Tf 50.0 614.0 Td (and thoracic surgery early.) Tj ET
+0.92 0.97 1.00 rg
+46 554.0 520 52.0 re f
+0.55 0.68 0.76 RG
+46 554.0 520 52.0 re S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.5 Tf 53.0 590.0 Td (Hemoptysis pitfall: The usual cause of death in massive hemoptysis is asphyxiation, not) Tj ET
+BT /F1 9.5 Tf 53.0 578.0 Td (exsanguination. A stable-looking oxygen saturation can deteriorate quickly when blood) Tj ET
+BT /F1 9.5 Tf 53.0 566.0 Td (obstructs the tracheobronchial tree.) Tj ET
+BT /F1 9.7 Tf 50.0 546.0 Td (Hemoptysis category Likely causes Preferred evaluation Management emphasis) Tj ET
+BT /F1 9.7 Tf 50.0 534.0 Td (-------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 522.0 Td (---------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 510.0 Td (------------------------------------------------------------------------------------------- ------) Tj ET
+BT /F1 9.7 Tf 50.0 498.0 Td (--------------------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 486.0 Td (----- Scant or mild Bronchitis, pneumonia, airway irritation, mild bronchiectasis CXR; CT if risk) Tj ET
+BT /F1 9.7 Tf 50.0 474.0 Td (factors, recurrent bleeding, abnormal imaging, age/smoking risk Treat cause; follow persistent or) Tj ET
+BT /F1 9.7 Tf 50.0 462.0 Td (unexplained bleeding Moderate/recurrent Bronchiectasis, malignancy, TB, fungal disease, PE,) Tj ET
+BT /F1 9.7 Tf 50.0 450.0 Td (vasculitis CT chest with contrast or CTA; bronchoscopy depending on stability and localization) Tj ET
+BT /F1 9.7 Tf 50.0 438.0 Td (needs Localize source; treat infection/inflammation; evaluate malignancy Massive or airway-) Tj ET
+BT /F1 9.7 Tf 50.0 426.0 Td (threatening Bronchiectasis, TB/cavitary infection, cancer, necrotizing pneumonia, vascular lesion) Tj ET
+BT /F1 9.7 Tf 50.0 414.0 Td (Airway stabilization first; CTA and bronchoscopy often complementary Protect airway, bleeding lung) Tj ET
+BT /F1 9.7 Tf 50.0 402.0 Td (down, reverse anticoagulation, bronchial artery embolization often definitive) Tj ET
+0.70 0.78 0.83 RG
+50 393.0 m 562 393.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 381.0 Td (4. Hypoxemia and Hypercapnia: The Numeric Framework) Tj ET
+BT /F1 9.7 Tf 50.0 361.0 Td (Hypoxemia means inadequate arterial oxygenation. Hypercapnia means inadequate alveolar ventilation) Tj ET
+BT /F1 9.7 Tf 50.0 349.0 Td (relative to carbon dioxide production. The two frequently coexist but should not be treated as) Tj ET
+BT /F1 9.7 Tf 50.0 337.0 Td (identical. Oxygen can improve hypoxemia without correcting ventilation; noninvasive ventilation or) Tj ET
+BT /F1 9.7 Tf 50.0 325.0 Td (invasive ventilation may be required to remove CO2. A patient with COPD can have acceptable oxygen) Tj ET
+BT /F1 9.7 Tf 50.0 313.0 Td (saturation but worsening somnolence and acidosis from CO2 retention.) Tj ET
+BT /F1 9.7 Tf 50.0 297.0 Td (Mechanism A-a gradient Typical response to oxygen Examples ----------------------) Tj ET
+BT /F1 9.7 Tf 50.0 285.0 Td (------------------------------------- ----------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 273.0 Td (---------------------------------------------------------- Low inspired oxygen Normal Good High) Tj ET
+BT /F1 9.7 Tf 50.0 261.0 Td (altitude Hypoventilation Normal Good for oxygen, but CO2 may persist without ventilation Opioids,) Tj ET
+BT /F1 9.7 Tf 50.0 249.0 Td (neuromuscular weakness, obesity hypoventilation V/Q mismatch Increased Usually improves COPD,) Tj ET
+BT /F1 9.7 Tf 50.0 237.0 Td (asthma, pneumonia, PE Shunt Increased Poor or incomplete response ARDS, dense pneumonia,) Tj ET
+BT /F1 9.7 Tf 50.0 225.0 Td (atelectasis, intracardiac shunt Diffusion limitation Increased, especially with exertion Often) Tj ET
+BT /F1 9.7 Tf 50.0 213.0 Td (improves at rest ILD, emphysema, pulmonary vascular disease) Tj ET
+BT /F1 9.7 Tf 50.0 197.0 Td (ABG logic for pulmonary review 1. pH low? Acidic. pH high? Alkalemic. 2. PaCO2 high? Respiratory) Tj ET
+BT /F1 9.7 Tf 50.0 185.0 Td (acidosis component. 3. PaCO2 low? Respiratory alkalosis component. 4. HCO3 low? Metabolic acidosis) Tj ET
+BT /F1 9.7 Tf 50.0 173.0 Td (component. 5. HCO3 high? Metabolic alkalosis or chronic compensation. 6. Low PaO2 or low SaO2? Ask) Tj ET
+BT /F1 9.7 Tf 50.0 161.0 Td (why oxygenation is failing. 7. COPD/OHS/neuromuscular patient with PaCO2 rising + pH falling =) Tj ET
+BT /F1 9.7 Tf 50.0 149.0 Td (acute ventilatory decompensation.) Tj ET
+0.70 0.78 0.83 RG
+50 140.0 m 562 140.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 128.0 Td (5. Integrated Test Interpretation) Tj ET
+BT /F2 12 Tf 50.0 105.0 Td (5.1 Pulmonary Function Tests) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 5200 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 4) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (Spirometry is the central test for airflow obstruction. Obstruction is suggested when FEV1/FVC is) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (reduced, often using <0.70 as a simple clinical threshold, though lower limit of normal is more) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (precise. Bronchodilator reversibility is classically an increase in FEV1 or FVC of at least 12%) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (and at least 200 mL, supporting asthma or a reversible component. Restriction requires lung) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (volumes, especially reduced total lung capacity; spirometry alone can suggest but not prove) Tj ET
+BT /F1 9.7 Tf 50.0 678.0 Td (restriction.) Tj ET
+BT /F1 9.7 Tf 50.0 662.0 Td (PFT pattern FEV1/FVC TLC DLCO Classic diagnoses -------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 650.0 Td (---------------------------------------------- --------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 638.0 Td (------------------------------- -------------------------------------------------- Asthma Low) Tj ET
+BT /F1 9.7 Tf 50.0 626.0 Td (during active obstruction; may normalize Normal or high if air trapping Normal or high Reversible) Tj ET
+BT /F1 9.7 Tf 50.0 614.0 Td (obstruction; trigger-related symptoms COPD emphysema Low Normal/high Low Smoking, hyperinflation,) Tj ET
+BT /F1 9.7 Tf 50.0 602.0 Td (dyspnea, poor recoil COPD chronic bronchitis Low Normal/high Often normal or mildly low Chronic) Tj ET
+BT /F1 9.7 Tf 50.0 590.0 Td (productive cough Bronchiectasis Often low, mixed possible Variable Variable Recurrent infection,) Tj ET
+BT /F1 9.7 Tf 50.0 578.0 Td (dilated bronchi on CT ILD/IPF Normal/high Low Low Dry cough, crackles, HRCT fibrosis Pulmonary) Tj ET
+BT /F1 9.7 Tf 50.0 566.0 Td (hypertension Often normal Often normal Low Dyspnea, syncope, loud P2, RV strain Neuromuscular) Tj ET
+BT /F1 9.7 Tf 50.0 554.0 Td (weakness Normal/high or nonspecific Low Normal if adjusted for volume Low maximal) Tj ET
+BT /F1 9.7 Tf 50.0 542.0 Td (inspiratory/expiratory pressures) Tj ET
+BT /F2 12 Tf 50.0 523.0 Td (5.2 Chest Imaging Pattern Recognition) Tj ET
+BT /F1 9.7 Tf 50.0 506.0 Td (Chest imaging is powerful but must be interpreted with clinical context. A focal lobar opacity in) Tj ET
+BT /F1 9.7 Tf 50.0 494.0 Td (a febrile patient suggests bacterial pneumonia, but a focal opacity in an older smoker with weight) Tj ET
+BT /F1 9.7 Tf 50.0 482.0 Td (loss could represent post-obstructive pneumonia from lung cancer. Bilateral opacities with) Tj ET
+BT /F1 9.7 Tf 50.0 470.0 Td (hypoxemia can represent ARDS, cardiogenic edema, diffuse alveolar hemorrhage, multifocal) Tj ET
+BT /F1 9.7 Tf 50.0 458.0 Td (pneumonia, aspiration, or acute ILD exacerbation. Prior imaging is often the most valuable) Tj ET
+BT /F1 9.7 Tf 50.0 446.0 Td (diagnostic test for nodules and chronic abnormalities.) Tj ET
+BT /F1 9.7 Tf 50.0 430.0 Td (Image pattern Likely clinical associations Key next questions) Tj ET
+BT /F1 9.7 Tf 50.0 418.0 Td (---------------------------------------- -------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 406.0 Td (---------------------------------------------------------------------------- Lobar consolidation) Tj ET
+BT /F1 9.7 Tf 50.0 394.0 Td (Pneumococcal pneumonia, aspiration, obstructing tumor Fever? aspiration risk? cancer risk? follow-) Tj ET
+BT /F1 9.7 Tf 50.0 382.0 Td (up resolution? Interstitial reticulation/honeycombing IPF/UIP, connective tissue disease ILD,) Tj ET
+BT /F1 9.7 Tf 50.0 370.0 Td (asbestosis Age, exposures, autoimmune symptoms, HRCT pattern Hyperinflation COPD, asthma) Tj ET
+BT /F1 9.7 Tf 50.0 358.0 Td (exacerbation, air trapping Smoking, alpha-1 risk, wheeze, PFTs Pleural line without vascular) Tj ET
+BT /F1 9.7 Tf 50.0 346.0 Td (markings Pneumothorax Tension signs? secondary lung disease? trauma/procedure? Blunted) Tj ET
+BT /F1 9.7 Tf 50.0 334.0 Td (costophrenic angle Pleural effusion Transudate vs exudate; tap if new, unilateral, febrile, large,) Tj ET
+BT /F1 9.7 Tf 50.0 322.0 Td (or atypical Solitary pulmonary nodule Granuloma, hamartoma, primary lung cancer, metastasis Size,) Tj ET
+BT /F1 9.7 Tf 50.0 310.0 Td (growth, calcification, smoking risk, prior CT) Tj ET
+0.70 0.78 0.83 RG
+50 301.0 m 562 301.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 289.0 Td (6. High-Yield Management Ladders) Tj ET
+BT /F2 12 Tf 50.0 266.0 Td (6.1 Oxygenation Versus Ventilation) Tj ET
+BT /F1 9.7 Tf 50.0 249.0 Td (Oxygenation is primarily improved by increasing FiO2, recruiting alveoli with PEEP, treating shunt) Tj ET
+BT /F1 9.7 Tf 50.0 237.0 Td (or V/Q mismatch, and resolving the underlying cause. Ventilation is primarily improved by) Tj ET
+BT /F1 9.7 Tf 50.0 225.0 Td (increasing minute ventilation, reducing dead space, supporting respiratory muscles, and correcting) Tj ET
+BT /F1 9.7 Tf 50.0 213.0 Td (airway obstruction. Confusing these two domains leads to common errors, such as escalating oxygen) Tj ET
+BT /F1 9.7 Tf 50.0 201.0 Td (flow in a patient whose main problem is CO2 narcosis.) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5472 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 5) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (Problem Useful tools Numerical anchors Common mistake ------------------) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (----------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (-----------------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (-------------------------------------------------------------------- Hypoxemia Nasal cannula, face) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (mask, high-flow nasal cannula, CPAP/PEEP, intubation ARDS severity uses PaO2/FiO2: mild 200-300,) Tj ET
+BT /F1 9.7 Tf 50.0 678.0 Td (moderate 100-200, severe <100 Not recognizing shunt physiology when oxygen response is poor) Tj ET
+BT /F1 9.7 Tf 50.0 666.0 Td (Hypercapnia Bronchodilators, NIV, invasive ventilation, reverse sedatives/opioids when appropriate) Tj ET
+BT /F1 9.7 Tf 50.0 654.0 Td (Acute ventilatory failure: rising PaCO2 with acidemia, often pH <7.35 Giving oxygen alone and) Tj ET
+BT /F1 9.7 Tf 50.0 642.0 Td (ignoring worsening ventilation COPD oxygenation Controlled oxygen, bronchodilators, steroids,) Tj ET
+BT /F1 9.7 Tf 50.0 630.0 Td (antibiotics when indicated, NIV Often target SpO2 88-92% in known CO2 retainers Over-oxygenation) Tj ET
+BT /F1 9.7 Tf 50.0 618.0 Td (without ABG monitoring in severe hypercapnia risk ARDS ventilation Lung-protective ventilation,) Tj ET
+BT /F1 9.7 Tf 50.0 606.0 Td (PEEP, proning for severe ARDS, treat cause Tidal volume about 6 mL/kg predicted body weight;) Tj ET
+BT /F1 9.7 Tf 50.0 594.0 Td (plateau pressure generally <30 cm H2O Using actual body weight or excessive tidal volume) Tj ET
+BT /F2 12 Tf 50.0 575.0 Td (6.2 Noninvasive Ventilation Versus Intubation) Tj ET
+BT /F1 9.7 Tf 50.0 558.0 Td (Noninvasive ventilation is most useful in acute COPD exacerbation with hypercapnic respiratory) Tj ET
+BT /F1 9.7 Tf 50.0 546.0 Td (acidosis and in cardiogenic pulmonary edema. It may help selected immunocompromised or post-) Tj ET
+BT /F1 9.7 Tf 50.0 534.0 Td (extubation patients, but it is risky when airway protection is poor, secretions are heavy, shock) Tj ET
+BT /F1 9.7 Tf 50.0 522.0 Td (is present, mental status is severely impaired, or immediate invasive ventilation is needed. A) Tj ET
+BT /F1 9.7 Tf 50.0 510.0 Td (trial of NIV must have a reassessment point; failure to improve pH, respiratory effort, or mental) Tj ET
+BT /F1 9.7 Tf 50.0 498.0 Td (status should trigger escalation.) Tj ET
+BT /F1 9.7 Tf 50.0 482.0 Td (Scenario NIV usually helpful? Reasoning ---------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 470.0 Td (----------------------) Tj ET
+BT /F1 9.7 Tf 50.0 458.0 Td (----------------------------------------------------------------------------------- COPD) Tj ET
+BT /F1 9.7 Tf 50.0 446.0 Td (exacerbation + pH 7.25-7.35 + elevated PaCO2 Yes Reduces work of breathing and improves) Tj ET
+BT /F1 9.7 Tf 50.0 434.0 Td (ventilation Cardiogenic pulmonary edema Yes Positive pressure recruits alveoli and reduces) Tj ET
+BT /F1 9.7 Tf 50.0 422.0 Td (preload/afterload ARDS with severe hypoxemia Often limited High failure risk; delayed intubation) Tj ET
+BT /F1 9.7 Tf 50.0 410.0 Td (can worsen outcomes Massive hemoptysis No Airway contamination and aspiration risk;) Tj ET
+BT /F1 9.7 Tf 50.0 398.0 Td (intubation/localization may be required Vomiting, coma, inability to protect airway No Aspiration) Tj ET
+BT /F1 9.7 Tf 50.0 386.0 Td (risk and poor airway control) Tj ET
+0.70 0.78 0.83 RG
+50 377.0 m 562 377.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 365.0 Td (7. Disease Comparison Tables) Tj ET
+BT /F2 12 Tf 50.0 342.0 Td (7.1 Pneumonia Versus PE Versus CHF Versus COPD) Tj ET
+BT /F1 9.7 Tf 50.0 325.0 Td (Feature Pneumonia Pulmonary embolism Cardiogenic pulmonary edema COPD/asthma exacerbation) Tj ET
+BT /F1 9.7 Tf 50.0 313.0 Td (--------------------- -----------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 301.0 Td (----------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 289.0 Td (------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 277.0 Td (----------------------------------------------------------------- Onset Hours-days Sudden or) Tj ET
+BT /F1 9.7 Tf 50.0 265.0 Td (subacute Acute/subacute Hours-days Symptoms Fever, cough, sputum, pleuritic pain Pleuritic pain,) Tj ET
+BT /F1 9.7 Tf 50.0 253.0 Td (dyspnea, syncope, hemoptysis Orthopnea, edema, frothy sputum Wheeze, chest tightness, cough Exam) Tj ET
+BT /F1 9.7 Tf 50.0 241.0 Td (Crackles, bronchial breath sounds Tachycardia, hypoxemia; lungs may be clear Crackles, S3, JVD,) Tj ET
+BT /F1 9.7 Tf 50.0 229.0 Td (edema Wheeze, prolonged expiration, accessory muscles Testing CXR infiltrate, cultures if severe) Tj ET
+BT /F1 9.7 Tf 50.0 217.0 Td (Wells/PERC/D-dimer/CTPA/VQ BNP, echo, CXR vascular congestion Spirometry history; ABG if severe) Tj ET
+BT /F1 9.7 Tf 50.0 205.0 Td (Immediate treatment Antibiotics + oxygen + fluids if septic Anticoagulation; thrombolysis if) Tj ET
+BT /F1 9.7 Tf 50.0 193.0 Td (massive and appropriate Diuresis, nitrates, CPAP/BiPAP if needed Bronchodilators, steroids, oxygen) Tj ET
+BT /F1 9.7 Tf 50.0 181.0 Td (target; NIV for COPD acidosis) Tj ET
+BT /F2 12 Tf 50.0 162.0 Td (7.2 Pleural Effusion Rapid Interpretation) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 6214 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 6) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (Effusion clue Likely diagnosis Key fluid patterns Action) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (--------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (-------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (----------------------------------------------------------------- Bilateral, known CHF, improves) Tj ET
+BT /F1 9.7 Tf 50.0 678.0 Td (with diuresis Transudative CHF effusion Low protein/LDH by Light's criteria Diuresis; tap if) Tj ET
+BT /F1 9.7 Tf 50.0 666.0 Td (atypical, unilateral, febrile, or nonresolving Pneumonia + pleural fluid pH <7.20 or glucose low) Tj ET
+BT /F1 9.7 Tf 50.0 654.0 Td (Complicated parapneumonic effusion/empyema Neutrophilic, high LDH, possible pus/positive culture) Tj ET
+BT /F1 9.7 Tf 50.0 642.0 Td (Drainage plus antibiotics Malignancy symptoms or recurrent unilateral effusion Malignant pleural) Tj ET
+BT /F1 9.7 Tf 50.0 630.0 Td (effusion Exudate; cytology may diagnose Thoracentesis, cytology, symptom palliation Very high) Tj ET
+BT /F1 9.7 Tf 50.0 618.0 Td (amylase Pancreatitis or esophageal rupture Exudate with elevated amylase Treat source; esophageal) Tj ET
+BT /F1 9.7 Tf 50.0 606.0 Td (rupture is emergency Milky fluid Chylothorax High triglycerides Evaluate trauma, malignancy,) Tj ET
+BT /F1 9.7 Tf 50.0 594.0 Td (thoracic duct injury) Tj ET
+BT /F2 12 Tf 50.0 575.0 Td (7.3 Lung Cancer and Pulmonary Nodule Review) Tj ET
+BT /F1 9.7 Tf 50.0 558.0 Td (Lung cancer questions often combine risk factors, histology, paraneoplastic syndromes, and local) Tj ET
+BT /F1 9.7 Tf 50.0 546.0 Td (invasion. Adenocarcinoma is common and often peripheral; squamous cell carcinoma is classically) Tj ET
+BT /F1 9.7 Tf 50.0 534.0 Td (central and associated with hypercalcemia from PTHrP; small cell carcinoma is central, aggressive,) Tj ET
+BT /F1 9.7 Tf 50.0 522.0 Td (neuroendocrine, and associated with SIADH, ectopic ACTH, and Lambert-Eaton syndrome. Pulmonary) Tj ET
+BT /F1 9.7 Tf 50.0 510.0 Td (nodules are risk-stratified by size, growth, morphology, calcification pattern, patient age,) Tj ET
+BT /F1 9.7 Tf 50.0 498.0 Td (smoking history, prior imaging, and immune status.) Tj ET
+BT /F1 9.7 Tf 50.0 482.0 Td (Clinical clue Diagnosis to consider Mechanistic link) Tj ET
+BT /F1 9.7 Tf 50.0 470.0 Td (------------------------------------------------- ----------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 458.0 Td (------------------------------------------------------------------- Shoulder pain + Horner) Tj ET
+BT /F1 9.7 Tf 50.0 446.0 Td (syndrome + hand weakness Pancoast tumor Apical tumor invades brachial plexus/sympathetic chain) Tj ET
+BT /F1 9.7 Tf 50.0 434.0 Td (Facial swelling + venous distention SVC syndrome Central tumor compresses superior vena cava) Tj ET
+BT /F1 9.7 Tf 50.0 422.0 Td (Hyponatremia in smoker with lung mass Small cell carcinoma with SIADH Neuroendocrine ectopic ADH) Tj ET
+BT /F1 9.7 Tf 50.0 410.0 Td (activity Hypercalcemia in central cavitary mass Squamous cell carcinoma PTHrP-mediated) Tj ET
+BT /F1 9.7 Tf 50.0 398.0 Td (hypercalcemia Stable calcified nodule over years Benign granuloma/hamartoma more likely Chronicity) Tj ET
+BT /F1 9.7 Tf 50.0 386.0 Td (and benign calcification reduce malignancy probability) Tj ET
+0.70 0.78 0.83 RG
+50 377.0 m 562 377.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 365.0 Td (8. Integrated Case Practice) Tj ET
+BT /F2 12 Tf 50.0 342.0 Td (Case 1: Acute dyspnea after surgery) Tj ET
+BT /F1 9.7 Tf 50.0 325.0 Td (A 67-year-old woman is 5 days post hip surgery and develops sudden dyspnea, pleuritic chest pain,) Tj ET
+BT /F1 9.7 Tf 50.0 313.0 Td (tachycardia, and oxygen saturation of 88% on room air. Her lungs are clear. The key concept is) Tj ET
+BT /F1 9.7 Tf 50.0 301.0 Td (that clear lungs do not exclude severe pulmonary disease. Postoperative immobility increases) Tj ET
+BT /F1 9.7 Tf 50.0 289.0 Td (venous thromboembolism risk, and sudden pleuritic symptoms suggest PE. If she is stable, CT) Tj ET
+BT /F1 9.7 Tf 50.0 277.0 Td (pulmonary angiography is usually the direct diagnostic test. If renal failure or contrast allergy) Tj ET
+BT /F1 9.7 Tf 50.0 265.0 Td (is a major limitation and the chest x-ray is interpretable, V/Q scanning may be used. If unstable,) Tj ET
+BT /F1 9.7 Tf 50.0 253.0 Td (bedside echo evidence of RV strain can support emergent management while definitive imaging may be) Tj ET
+BT /F1 9.7 Tf 50.0 241.0 Td (unsafe.) Tj ET
+0.92 0.97 1.00 rg
+46 169.0 520 64.0 re f
+0.55 0.68 0.76 RG
+46 169.0 520 64.0 re S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.5 Tf 53.0 217.0 Td (Answer logic: PE is a vascular obstruction problem causing V/Q mismatch, increased dead) Tj ET
+BT /F1 9.5 Tf 53.0 205.0 Td (space, RV pressure overload, and sometimes obstructive shock. Anticoagulation is treatment) Tj ET
+BT /F1 9.5 Tf 53.0 193.0 Td (unless contraindicated; thrombolysis is reserved for massive PE with hemodynamic instability) Tj ET
+BT /F1 9.5 Tf 53.0 181.0 Td (or selected high-risk deterioration.) Tj ET
+BT /F2 12 Tf 50.0 158.0 Td (Case 2: Wheezing patient who is getting quiet) Tj ET
+BT /F1 9.7 Tf 50.0 141.0 Td (A 24-year-old with asthma arrives with severe wheezing, then becomes drowsy with less audible) Tj ET
+BT /F1 9.7 Tf 50.0 129.0 Td (wheeze. This is not improvement. A silent chest can signal minimal air movement. Worsening) Tj ET
+BT /F1 9.7 Tf 50.0 117.0 Td (hypercapnia in asthma reflects respiratory muscle fatigue and severe airflow obstruction. Initial) Tj ET
+BT /F1 9.7 Tf 50.0 105.0 Td (therapy includes inhaled short-acting beta agonist, ipratropium for severe exacerbation, systemic) Tj ET
+BT /F1 9.7 Tf 50.0 93.0 Td (corticosteroids, oxygen, and magnesium in severe cases. If mental status worsens or ventilation) Tj ET
+BT /F1 9.7 Tf 50.0 81.0 Td (fails, intubation is required by an experienced team because dynamic hyperinflation and auto-PEEP) Tj ET
+BT /F1 9.7 Tf 50.0 69.0 Td (can cause hypotension after intubation.) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 5258 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 7) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F2 12 Tf 50.0 735.0 Td (Case 3: Fever, aspiration, and anaerobic confusion) Tj ET
+BT /F1 9.7 Tf 50.0 718.0 Td (A nursing-home patient with dysphagia coughs after eating and develops fever and a right lower) Tj ET
+BT /F1 9.7 Tf 50.0 706.0 Td (lobe infiltrate 2 days later. This is aspiration pneumonia, not just chemical pneumonitis.) Tj ET
+BT /F1 9.7 Tf 50.0 694.0 Td (Aspiration pneumonitis is an acute chemical injury that often follows a witnessed macroaspiration) Tj ET
+BT /F1 9.7 Tf 50.0 682.0 Td (event and may improve within 24-48 hours without antibiotics if bacterial infection does not) Tj ET
+BT /F1 9.7 Tf 50.0 670.0 Td (develop. Aspiration pneumonia is bacterial infection after aspiration and is treated like) Tj ET
+BT /F1 9.7 Tf 50.0 658.0 Td (pneumonia with attention to oral flora and severity. Routine extended anaerobic coverage is not) Tj ET
+BT /F1 9.7 Tf 50.0 646.0 Td (required for every aspiration event, but it becomes more important when lung abscess, necrotizing) Tj ET
+BT /F1 9.7 Tf 50.0 634.0 Td (infection, empyema, severe periodontal disease, or classic anaerobic complication is present.) Tj ET
+BT /F2 12 Tf 50.0 615.0 Td (Case 4: Hemoptysis in bronchiectasis) Tj ET
+BT /F1 9.7 Tf 50.0 598.0 Td (A 58-year-old with chronic productive cough and CT-proven bronchiectasis presents with repeated) Tj ET
+BT /F1 9.7 Tf 50.0 586.0 Td (large-volume hemoptysis. The airway is the immediate threat. Place the bleeding lung down if) Tj ET
+BT /F1 9.7 Tf 50.0 574.0 Td (known, protect the airway, reverse coagulopathy, and use CT angiography and bronchoscopy as the) Tj ET
+BT /F1 9.7 Tf 50.0 562.0 Td (patient's stability allows. Bronchial artery embolization is often the key definitive intervention) Tj ET
+BT /F1 9.7 Tf 50.0 550.0 Td (because most severe hemoptysis arises from the high-pressure bronchial arterial circulation rather) Tj ET
+BT /F1 9.7 Tf 50.0 538.0 Td (than the low-pressure pulmonary arterial circuit.) Tj ET
+BT /F2 12 Tf 50.0 519.0 Td (Case 5: Bilateral opacities and low PaO2/FiO2) Tj ET
+BT /F1 9.7 Tf 50.0 502.0 Td (A septic patient develops acute hypoxemia, bilateral opacities, and a PaO2/FiO2 ratio of 90) Tj ET
+BT /F1 9.7 Tf 50.0 490.0 Td (despite positive pressure ventilation. Cardiac function is not the primary explanation. This fits) Tj ET
+BT /F1 9.7 Tf 50.0 478.0 Td (severe ARDS. Management includes treating sepsis, lung-protective ventilation using predicted body) Tj ET
+BT /F1 9.7 Tf 50.0 466.0 Td (weight, limiting plateau pressure, using adequate PEEP, considering prone positioning for severe) Tj ET
+BT /F1 9.7 Tf 50.0 454.0 Td (ARDS, conservative fluid strategy after shock resolves, and monitoring for ventilator-induced lung) Tj ET
+BT /F1 9.7 Tf 50.0 442.0 Td (injury.) Tj ET
+0.70 0.78 0.83 RG
+50 433.0 m 562 433.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 421.0 Td (9. High-Yield Numeric Anchors) Tj ET
+BT /F1 9.7 Tf 50.0 401.0 Td (Number Meaning Clinical use -----------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 389.0 Td (----------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 377.0 Td (---------------------------------------------------------------------------- FEV1/FVC <0.70 Common) Tj ET
+BT /F1 9.7 Tf 50.0 365.0 Td (simple threshold for obstruction COPD/asthma/bronchiectasis airflow limitation FEV1 or FVC) Tj ET
+BT /F1 9.7 Tf 50.0 353.0 Td (increase >=12% and >=200 mL Classic bronchodilator response Supports reversible airway disease) Tj ET
+BT /F1 9.7 Tf 50.0 341.0 Td (PaCO2 >45 mmHg while awake with BMI >=30 Key OHS anchor after excluding other causes Obesity) Tj ET
+BT /F1 9.7 Tf 50.0 329.0 Td (hypoventilation syndrome SpO2 88-92% Common target range for COPD patients at risk of CO2) Tj ET
+BT /F1 9.7 Tf 50.0 317.0 Td (retention Controlled oxygen strategy Light's criteria positive Pleural exudate Pleural protein) Tj ET
+BT /F1 9.7 Tf 50.0 305.0 Td (ratio >0.5, LDH ratio >0.6, or LDH >2/3 upper limit normal Pleural pH <7.20 Complicated) Tj ET
+BT /F1 9.7 Tf 50.0 293.0 Td (parapneumonic effusion Usually needs drainage PaO2/FiO2 200-300, 100-200, <100 Mild, moderate,) Tj ET
+BT /F1 9.7 Tf 50.0 281.0 Td (severe ARDS categories ARDS severity and management escalation Tidal volume about 6 mL/kg PBW) Tj ET
+BT /F1 9.7 Tf 50.0 269.0 Td (Lung-protective ventilation anchor ARDS and many ventilated patients Plateau pressure <30 cm H2O) Tj ET
+BT /F1 9.7 Tf 50.0 257.0 Td (Ventilator lung protection target Reduce barotrauma/volutrauma risk Hemoptysis 100-600 mL/24h) Tj ET
+BT /F1 9.7 Tf 50.0 245.0 Td (Common massive hemoptysis range Airway threat matters more than exact volume Minimum 5 days Common) Tj ET
+BT /F1 9.7 Tf 50.0 233.0 Td (CAP antibiotic duration when clinically stable Requires stability and afebrile/improving status) Tj ET
+BT /F1 9.7 Tf 50.0 221.0 Td (Age 50-80, 20 pack-years, current or quit <15 years USPSTF lung cancer screening criteria Annual) Tj ET
+BT /F1 9.7 Tf 50.0 209.0 Td (low-dose CT in eligible adults) Tj ET
+0.70 0.78 0.83 RG
+50 200.0 m 562 200.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 188.0 Td (10. Common Pitfalls) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 6711 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 8) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+BT /F1 9.7 Tf 50.0 738.0 Td (- Calling every wheeze asthma. CHF, PE, foreign body, anaphylaxis, vocal cord dysfunction, and) Tj ET
+BT /F1 9.7 Tf 50.0 726.0 Td (COPD can wheeze. - Ignoring ventilation because oxygen saturation improved. Oxygenation and CO2) Tj ET
+BT /F1 9.7 Tf 50.0 714.0 Td (removal are different physiologic tasks. - Using D-dimer in high-probability PE as a rule-out) Tj ET
+BT /F1 9.7 Tf 50.0 702.0 Td (test. D-dimer is most useful when pretest probability is low or sometimes intermediate. - Delaying) Tj ET
+BT /F1 9.7 Tf 50.0 690.0 Td (decompression for suspected tension pneumothorax. Tension physiology is a clinical diagnosis in an) Tj ET
+BT /F1 9.7 Tf 50.0 678.0 Td (unstable patient. - Assuming bilateral opacities are always CHF. ARDS, diffuse pneumonia,) Tj ET
+BT /F1 9.7 Tf 50.0 666.0 Td (aspiration, hemorrhage, and ILD exacerbation can mimic edema. - Overusing anaerobic coverage for) Tj ET
+BT /F1 9.7 Tf 50.0 654.0 Td (aspiration. Reserve broader anaerobic logic for abscess, empyema, necrosis, or severe) Tj ET
+BT /F1 9.7 Tf 50.0 642.0 Td (periodontal/anaerobic features. - Underreacting to hemoptysis. The airway can be lost before the) Tj ET
+BT /F1 9.7 Tf 50.0 630.0 Td (blood pressure changes. - Calling a pleural effusion transudative without context. Diuretics can) Tj ET
+BT /F1 9.7 Tf 50.0 618.0 Td (concentrate pleural fluid and complicate interpretation. - Missing pulmonary hypertension in) Tj ET
+BT /F1 9.7 Tf 50.0 606.0 Td (chronic lung disease. Progressive dyspnea, syncope, loud P2, edema, and low DLCO should trigger) Tj ET
+BT /F1 9.7 Tf 50.0 594.0 Td (consideration. - Not checking old imaging for a pulmonary nodule. Stability over time can) Tj ET
+BT /F1 9.7 Tf 50.0 582.0 Td (drastically change risk.) Tj ET
+0.70 0.78 0.83 RG
+50 573.0 m 562 573.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 561.0 Td (11. Graph RAG Extraction Map) Tj ET
+BT /F1 9.7 Tf 50.0 541.0 Td (The following concept map is included to make node and edge extraction easier. It highlights how) Tj ET
+BT /F1 9.7 Tf 50.0 529.0 Td (pulmonary symptoms, mechanisms, diagnostic tests, treatments, and complications connect.) Tj ET
+BT /F1 9.7 Tf 50.0 513.0 Td (Node Useful edges High-yield attributes --------------------------- ------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 501.0 Td (-------------------------------------------------------------------------------) Tj ET
+BT /F1 9.7 Tf 50.0 489.0 Td (------------------------------------------------------------------ Dyspnea caused_by asthma, COPD,) Tj ET
+BT /F1 9.7 Tf 50.0 477.0 Td (pneumonia, PE, CHF, pneumothorax, ARDS, ILD, anemia, acidosis acute vs chronic; stable vs) Tj ET
+BT /F1 9.7 Tf 50.0 465.0 Td (unstable; oxygenation vs ventilation Hypoxemia mechanism V/Q mismatch, shunt, diffusion) Tj ET
+BT /F1 9.7 Tf 50.0 453.0 Td (limitation, hypoventilation, low FiO2 A-a gradient; oxygen response; PaO2/FiO2 in ARDS Hypercapnia) Tj ET
+BT /F1 9.7 Tf 50.0 441.0 Td (caused_by COPD, OHS, neuromuscular weakness, sedatives, severe asthma PaCO2, pH, bicarbonate) Tj ET
+BT /F1 9.7 Tf 50.0 429.0 Td (compensation Hemoptysis caused_by bronchiectasis, TB, cancer, pneumonia, PE, vasculitis;) Tj ET
+BT /F1 9.7 Tf 50.0 417.0 Td (treated_by airway protection, embolization massive vs nonmassive; asphyxiation risk Aspiration) Tj ET
+BT /F1 9.7 Tf 50.0 405.0 Td (subtype pneumonitis vs pneumonia; complication lung abscess, empyema witnessed event; dependent) Tj ET
+BT /F1 9.7 Tf 50.0 393.0 Td (lobes; anaerobic coverage conditions Pleural effusion classified_by Light's criteria; caused_by) Tj ET
+BT /F1 9.7 Tf 50.0 381.0 Td (CHF, malignancy, pneumonia, PE, cirrhosis pH, glucose, LDH, cytology, drainage indications) Tj ET
+BT /F1 9.7 Tf 50.0 369.0 Td (Pulmonary embolism arises_from DVT; causes V/Q mismatch, RV strain, obstructive shock Wells, PERC,) Tj ET
+BT /F1 9.7 Tf 50.0 357.0 Td (D-dimer, CTPA, anticoagulation, thrombolysis ARDS caused_by sepsis, pneumonia, aspiration,) Tj ET
+BT /F1 9.7 Tf 50.0 345.0 Td (pancreatitis, trauma; treated_by lung-protective ventilation timing, bilateral opacities,) Tj ET
+BT /F1 9.7 Tf 50.0 333.0 Td (noncardiogenic edema, P/F ratio Obstructive lung disease includes asthma, COPD, bronchiectasis;) Tj ET
+BT /F1 9.7 Tf 50.0 321.0 Td (measured_by FEV1/FVC wheeze, air trapping, bronchodilator response, DLCO pattern Interstitial lung) Tj ET
+BT /F1 9.7 Tf 50.0 309.0 Td (disease causes restriction, low DLCO, pulmonary hypertension HRCT pattern, exposure, autoimmune) Tj ET
+BT /F1 9.7 Tf 50.0 297.0 Td (disease, crackles) Tj ET
+0.70 0.78 0.83 RG
+50 288.0 m 562 288.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 276.0 Td (12. Closing Synthesis) Tj ET
+BT /F1 9.7 Tf 50.0 256.0 Td (The pulmonary section can be reduced to a few high-yield axes. First, decide whether the problem) Tj ET
+BT /F1 9.7 Tf 50.0 244.0 Td (is acute, chronic, or acute-on-chronic. Second, separate oxygenation failure from ventilation) Tj ET
+BT /F1 9.7 Tf 50.0 232.0 Td (failure. Third, determine whether the chest is obstructed, restricted, infected, vascularly) Tj ET
+BT /F1 9.7 Tf 50.0 220.0 Td (occluded, filled with fluid, compressed by pleural air/fluid, infiltrated by tumor, or under-) Tj ET
+BT /F1 9.7 Tf 50.0 208.0 Td (ventilated during sleep. Fourth, match severity to site of care. An outpatient with stable chronic) Tj ET
+BT /F1 9.7 Tf 50.0 196.0 Td (cough requires a different approach than an inpatient with rising CO2, hypotension, or airway-) Tj ET
+BT /F1 9.7 Tf 50.0 184.0 Td (threatening hemoptysis.) Tj ET
+BT /F1 9.7 Tf 50.0 168.0 Td (From a learning standpoint, the most important pulmonary skill is not memorizing isolated lists,) Tj ET
+BT /F1 9.7 Tf 50.0 156.0 Td (but building links. Bronchiectasis links chronic sputum to recurrent infection, Pseudomonas,) Tj ET
+BT /F1 9.7 Tf 50.0 144.0 Td (obstructive PFTs, and hemoptysis. PE links DVT risk to pleuritic pain, clear lungs, RV strain, and) Tj ET
+BT /F1 9.7 Tf 50.0 132.0 Td (anticoagulation. ARDS links sepsis or aspiration to bilateral opacities, refractory hypoxemia, low) Tj ET
+BT /F1 9.7 Tf 50.0 120.0 Td (PaO2/FiO2, and lung-protective ventilation. Sarcoidosis links granulomas to bilateral hilar) Tj ET
+BT /F1 9.7 Tf 50.0 108.0 Td (lymphadenopathy, uveitis, erythema nodosum, hypercalcemia, and steroid-responsive organ disease.) Tj ET
+BT /F1 9.7 Tf 50.0 96.0 Td (These links are the core of clinical reasoning and the ideal structure for a graph RAG knowledge) Tj ET
+BT /F1 9.7 Tf 50.0 84.0 Td (base.) Tj ET
+BT /F1 9.7 Tf 50.0 68.0 Td (Selected References Used for Medical Accuracy Checks) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 1680 >>
+stream
+0.12 0.25 0.40 rg
+BT /F2 9 Tf 50 762 Td (Medvale Internal Medicine - Pulmonary) Tj ET
+BT /F1 8 Tf 502 762 Td (Page 9) Tj ET
+0.70 0.78 0.83 RG
+50 756 m 562 756 l S
+0 0 0 rg 0 0 0 RG
+0.70 0.78 0.83 RG
+50 745.0 m 562 745.0 l S
+0 0 0 RG
+BT /F2 14 Tf 50.0 733.0 Td (1. American Thoracic Society / European Respiratory Society guideline) Tj ET
+BT /F2 14 Tf 50.0 716.0 Td (materials on noninvasive ventilation for acute respiratory failure. 2.) Tj ET
+BT /F2 14 Tf 50.0 699.0 Td (American College of Radiology Appropriateness Criteria: Hemoptysis. 3.) Tj ET
+BT /F2 14 Tf 50.0 682.0 Td (American Thoracic Society / Infectious Diseases Society of America guideline) Tj ET
+BT /F2 14 Tf 50.0 665.0 Td (for diagnosis and treatment of adults with community-acquired pneumonia. 4.) Tj ET
+BT /F2 14 Tf 50.0 648.0 Td (Guideline anchors from prior Medvale pulmonary chapters: GOLD COPD strategy,) Tj ET
+BT /F2 14 Tf 50.0 631.0 Td (GINA asthma strategy, Fleischner pulmonary nodule guidance, USPSTF lung cancer) Tj ET
+BT /F2 14 Tf 50.0 614.0 Td (screening recommendation, ATS/ERS/JRS/ALAT ILD/IPF and hypersensitivity) Tj ET
+BT /F2 14 Tf 50.0 597.0 Td (pneumonitis guidance, ATS sarcoidosis and obesity hypoventilation guidance. 5.) Tj ET
+BT /F2 14 Tf 50.0 580.0 Td (Uploaded pulmonary reference packet used as broad coverage signal only;) Tj ET
+BT /F2 14 Tf 50.0 563.0 Td (wording and figures were not reproduced.) Tj ET
+BT /F2 22 Tf 50.0 543.0 Td (Medvale Internal Medicine - Chapter 2J) Tj ET
+0.07 0.25 0.40 RG
+50 523.0 m 562 523.0 l S
+0 0 0 RG
+BT /F1 8.5 Tf 50.0 511.0 Td (Medvale note: This study resource does not replace local protocols, specialist consultation, or clinical judgment.) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000178 00000 n 
+0000000248 00000 n 
+0000000323 00000 n 
+0000000391 00000 n 
+0000005639 00000 n 
+0000005785 00000 n 
+0000012204 00000 n 
+0000012350 00000 n 
+0000018530 00000 n 
+0000018678 00000 n 
+0000023930 00000 n 
+0000024078 00000 n 
+0000029602 00000 n 
+0000029750 00000 n 
+0000036016 00000 n 
+0000036164 00000 n 
+0000041474 00000 n 
+0000041622 00000 n 
+0000048385 00000 n 
+0000048533 00000 n 
+0000050265 00000 n 
+trailer
+<< /Size 24 /Root 1 0 R >>
+startxref
+50413
+%%EOF
