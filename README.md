@@ -1,5 +1,10 @@
 # MedVale RAG Lab
 
+> [!IMPORTANT]
+> **NEW TESTERS: START HERE → [Open the complete step-by-step installation and testing guide](INSTRUCTIONS.md)**
+>
+> It is written for people who do not code and includes Windows setup, API connection, built-in database use, question generation, custom document uploads, and troubleshooting.
+
 MedVale RAG Lab is a local web application for building and evaluating medical retrieval systems. It compares document-order, vector, graph, and hybrid vector-plus-graph retrieval while keeping each tester's model credentials under their control.
 
 The repository contains no MedVale game logic. It includes the standalone research application, tests, graph viewer, and the built-in MedVale internal-medicine knowledge base.
@@ -8,7 +13,7 @@ The repository contains no MedVale game logic. It includes the standalone resear
 
 ## For testers
 
-If you do not normally use Python or a terminal, start with [INSTRUCTIONS.md](INSTRUCTIONS.md). Windows users can use the included setup and launch scripts.
+**Use the [step-by-step tester guide](INSTRUCTIONS.md) before installing or running the application.** Windows users can use the included setup and launch scripts without entering Python commands manually.
 
 ## Features
 
@@ -52,6 +57,20 @@ python run_app.py
 Then open <http://127.0.0.1:8090>.
 
 ## API providers
+
+### Fastest tested setup: Groq with GPT-OSS 120B
+
+This project was tested with **Groq** (spelled with a `q`, not xAI's Grok) and the `openai/gpt-oss-120b` model.
+
+1. Create or sign in to a GroqCloud account and open the [Groq API Keys page](https://console.groq.com/keys).
+2. Select **Create API Key**, give it a recognizable name, and copy the key when it is shown.
+3. Start MedVale RAG Lab and select the gear beside **API offline**.
+4. Choose **Groq**. Keep the model as `openai/gpt-oss-120b` and the base URL as `https://api.groq.com/openai/v1`.
+5. Paste the key and select **Verify and save**. The status should change to **API online**.
+
+Groq documents the key-creation process in its [official quickstart](https://console.groq.com/docs/quickstart) and lists `openai/gpt-oss-120b` in its [official model documentation](https://console.groq.com/docs/model/openai/gpt-oss-120b). Free-tier availability and rate limits can change. Never paste a key into source code, `.env.example`, a Git commit, an issue, or a screenshot.
+
+### Other supported providers
 
 The web interface supports:
 
