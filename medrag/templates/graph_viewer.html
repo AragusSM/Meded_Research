@@ -3,7 +3,7 @@
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>MedVale Graph Explorer</title>
   <script>window.MEDIVALE_GRAPH_DATA={{ graph_data|tojson }};window.MEDIVALE_GRAPH_CONFIG={showInlineHops:false,currentHops:1};</script>
-  <script type="module" src="{{ url_for('static', filename='vendor/medivale_graph/assets/viewer.js', v='controls-3') }}"></script>
+  <script type="module" src="{{ url_for('static', filename='vendor/medivale_graph/assets/viewer.js', v='graph-colors-1') }}"></script>
   <link rel="stylesheet" href="{{ url_for('static', filename='vendor/medivale_graph/assets/viewer.css') }}">
 </head><body>
   <div id="loading"><div class="loading-card"><div class="arcane-sigil" aria-hidden="true"><span class="sigil-ring sigil-ring-outer"></span><span class="sigil-ring sigil-ring-inner"></span><span class="sigil-diamond"></span><span class="sigil-line sigil-line-a"></span><span class="sigil-line sigil-line-b"></span></div><h1>MedVale Graph Explorer</h1><p>Loading knowledge graph…</p><div class="loading-bar"><div class="loading-bar-fill"></div></div></div></div>

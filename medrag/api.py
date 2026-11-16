@@ -195,9 +195,19 @@ def create_app(settings: Settings | None = None) -> Flask:
             node_args.extend((needle, needle))
         where_sql = f"WHERE {' AND '.join(node_where)}" if node_where else ""
         seed_limit = min(max_nodes, 50) if query else max_nodes
+        seed_order = "confidence DESC, canonical_name"
+        if not query and not entity_type and (collection_id == "medivale-fm" or collection_id.startswith("medivale-fm-")):
+            # Topic nodes have higher confidence in the bundled FM graph. Keep
+            # about one topic per three clinical concepts when both are available.
+            seed_order = (
+                "ROW_NUMBER() OVER (PARTITION BY entity_type = 'clinical_topic' "
+                "ORDER BY confidence DESC, canonical_name) "
+                "* CASE WHEN entity_type = 'clinical_topic' THEN 3 ELSE 1 END, "
+                + seed_order
+            )
         seeds = conn.execute(
             "SELECT concept_id,canonical_name,entity_type,description,confidence,status FROM concepts "
-            f"{where_sql} ORDER BY confidence DESC, canonical_name LIMIT ?",
+            f"{where_sql} ORDER BY {seed_order} LIMIT ?",
             (*node_args, seed_limit),
         ).fetchall()
         seed_ids = [row["concept_id"] for row in seeds]

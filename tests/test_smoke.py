@@ -195,3 +195,26 @@ def test_unfitted_vectorizer_is_rebuilt_from_saved_chunks():
             repaired = pickle.load(handle)
         assert repaired["format_version"] == 2
         assert repaired["vectorizer"].transform(["ferritin"]).shape[1] == repaired["matrix"].shape[1]
+
+
+def test_family_medicine_overview_includes_topics_and_clinical_concepts():
+    with tempfile.TemporaryDirectory() as temp:
+        settings = Settings(Path(temp), "mock", None, "127.0.0.1", 8090)
+        collection = settings.collection_dir("medivale-fm")
+        conn = connect(collection / "knowledge.sqlite3")
+        nodes = [(f"topic-{i}", f"Topic {i}", "clinical_topic", 1.0) for i in range(12)]
+        for entity_type in ("condition", "medication", "test"):
+            nodes.extend((f"{entity_type}-{i}", f"{entity_type} {i}", entity_type, 0.9 - i / 100) for i in range(4))
+        conn.executemany("INSERT INTO concepts(concept_id,canonical_name,entity_type,confidence) VALUES(?,?,?,?)", nodes)
+        conn.commit()
+        conn.close()
+
+        client = create_app(settings).test_client()
+        graph_url = "/v1/collections/medivale-fm/graph?max_nodes=10"
+        overview = client.get(graph_url).get_json()["nodes"]
+        assert len(overview) == 10
+        assert {node["entity_type"] for node in overview} == {"clinical_topic", "condition", "medication", "test"}
+        for filter_query in ("&entity_type=clinical_topic", "&q=Topic"):
+            filtered = client.get(graph_url + filter_query).get_json()["nodes"]
+            assert len(filtered) == 10
+            assert {node["entity_type"] for node in filtered} == {"clinical_topic"}
