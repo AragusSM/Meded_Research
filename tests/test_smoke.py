@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import tempfile
 import os
+import pickle
 from io import BytesIO
 from pathlib import Path
 
@@ -11,6 +12,7 @@ from medrag.api import create_app
 from medrag.config import Settings
 from medrag.database import connect
 from medrag.providers import ProviderError, provider_from_config
+from medrag.retrieval import vector_retrieve
 
 
 def test_vector_index_and_mock_answer():
@@ -157,3 +159,39 @@ def test_pdf_page_graph_filters_and_concept_sources():
         options = client.get("/v1/collections/pdf-test/graph/options").get_json()
         assert "disease" in options["entity_types"]
         assert "INDICATES" in options["relations"]
+
+
+def test_unfitted_vectorizer_is_rebuilt_from_saved_chunks():
+    with tempfile.TemporaryDirectory() as temp:
+        root = Path(temp)
+        docs = root / "docs"
+        docs.mkdir()
+        (docs / "notes.txt").write_text(
+            "Ferritin is low in iron deficiency anemia.", encoding="utf-8"
+        )
+        settings = Settings(root / "data", "mock", docs, "127.0.0.1", 8090)
+        client = create_app(settings).test_client()
+        response = client.post(
+            "/v1/collections/repair-test/index",
+            json={"directory": str(docs), "build_graph": False},
+        )
+        assert response.status_code == 200
+
+        collection = root / "data" / "repair-test"
+        vector_path = collection / "vectors.pkl"
+        with vector_path.open("rb") as handle:
+            store = pickle.load(handle)
+        # Reproduce the state that raises "idf vector is not fitted" while
+        # retaining the chunks needed for an automatic repair.
+        from sklearn.feature_extraction.text import TfidfVectorizer
+
+        store["vectorizer"] = TfidfVectorizer()
+        with vector_path.open("wb") as handle:
+            pickle.dump(store, handle)
+
+        evidence = vector_retrieve(collection, "ferritin", 1)
+        assert evidence[0]["text"].startswith("Ferritin is low")
+        with vector_path.open("rb") as handle:
+            repaired = pickle.load(handle)
+        assert repaired["format_version"] == 2
+        assert repaired["vectorizer"].transform(["ferritin"]).shape[1] == repaired["matrix"].shape[1]

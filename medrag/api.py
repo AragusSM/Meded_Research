@@ -30,11 +30,16 @@ def create_app(settings: Settings | None = None) -> Flask:
     project_root = Path(__file__).resolve().parents[1]
     bundled_root = project_root / "bundled_data"
     default_data_root = (project_root / "data").resolve()
-    if settings.data_dir.resolve() == default_data_root and not (settings.data_dir / "medivale-im" / "manifest.json").exists():
-        source_db = bundled_root / "internal_medicine_source.db"
-        source_documents = bundled_root / "documents"
-        if source_db.exists() and source_documents.is_dir():
-            import_medivale(source_db, source_documents, settings.data_dir)
+    if settings.data_dir.resolve() == default_data_root:
+        documents = bundled_root / "documents"
+        for specialty, filename, source_documents in (
+            ("im", "internal_medicine_source.db", documents),
+            ("fm", "medivale_graph_fm_v4.db", documents / "family_medicine"),
+        ):
+            manifest = settings.data_dir / f"medivale-{specialty}" / "manifest.json"
+            source_db = bundled_root / filename
+            if not manifest.exists() and source_db.is_file() and source_documents.is_dir():
+                import_medivale(source_db, source_documents, settings.data_dir, specialty=specialty)
     app = Flask(__name__)
     app.config["MAX_CONTENT_LENGTH"] = 100 * 1024 * 1024
 
@@ -305,6 +310,8 @@ def create_app(settings: Settings | None = None) -> Flask:
     @app.get("/v1/collections/<collection_id>/documents/<document_id>")
     def source_document(collection_id: str, document_id: str):
         source, title = resolve_source_document(collection_id, document_id)
+        if source.suffix.lower() == ".md":
+            return send_file(source, mimetype="text/plain", download_name=source.name, conditional=True)
         return send_file(source, download_name=title, as_attachment=False, conditional=True)
 
     @app.get("/v1/collections/<collection_id>/documents/<document_id>/pages/<int:page_number>")

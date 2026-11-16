@@ -1,0 +1,109 @@
+# Medivale Family Medicine
+
+## 03D. Respiratory Infection and Other Lung Disease
+
+Adult CAP care combines ATS/IDSA initial-treatment recommendations with the ATS diagnostic/duration update. The viral-positive treatment disagreement with IDSA is described below. Pediatric pneumonia follows 13C.
+
+### Recognize pneumonia and decide where care is safe
+
+Pneumonia is parenchymal infection: alveolar inflammation/filling impairs gas exchange, causing cough, fever, dyspnea, pleurisy, crackles, or consolidation. Older adults may have delirium, falls, anorexia, or functional decline; immune suppression blunts findings. Consider bronchitis, edema, PE, malignancy, and noninfectious pneumonitis.
+
+Assess vital signs, saturation, mentation, hydration, and oral intake. Establish trajectory, aspiration, recent influenza/COVID, exposures, immune status, prior antibiotics, and resistant isolates. Deterioration after improvement suggests secondary infection or complications. Diarrhea/hyponatremia can accompany Legionella and severe postinfluenza disease suggests S. aureus; neither reliably identifies the organism.
+
+Chest radiography commonly confirms an infiltrate or effusion, but a nondiagnostic early study does not exclude pneumonia. Lung ultrasound is an alternative with appropriate expertise and infrastructure. Reserve CT for unresolved diagnostic questions, complications, or alternatives. [Current ATS diagnostic update](https://doi.org/10.1164/rccm.202507-1692ST)
+
+The **Pneumonia Severity Index** can support adult admission decisions, but oxygenation, rapid deterioration, inability to take oral therapy, frailty, pregnancy, home support, and follow-up access can override a low estimated mortality risk. CURB-65 is another prognostic tool, not a complete outpatient safety checklist. Shock, respiratory failure, or severe CAP requires urgent hospital-level care. These adult frameworks should not be transplanted into infants or children. [CAP disposition framework](https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-adults)
+
+Routine outpatient blood/sputum cultures are usually unnecessary in uncomplicated CAP. Severe disease, selected resistant-organism risks, epidemiologic concerns, or treatment failure changes testing. Do not use a low procalcitonin value alone to withhold indicated initial antibiotics in convincing bacterial CAP. Prior respiratory isolation of MRSA/Pseudomonas and relevant recent hospitalization with IV antibiotics matter more than assigning automatic broad coverage because someone lives in a nursing facility.
+
+### Select initial therapy and reassess its purpose
+
+For otherwise healthy adults without specified resistant-pathogen risks, amoxicillin or doxycycline are usual outpatient choices. The active guideline gives amoxicillin 1 g three times daily or doxycycline 100 mg twice daily for eligible adults; kidney function, pregnancy, allergy, interactions, and the full regimen still need review. Macrolide monotherapy is an option only when local pneumococcal resistance is sufficiently low, below 25%. Do not assume that condition holds locally. [Active outpatient antibiotic recommendations](https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf)
+
+Relevant comorbidities include chronic heart, lung, liver, or kidney disease; diabetes; alcohol use disorder; malignancy; and asplenia. For an otherwise eligible adult with usual renal function, one oral combination is **amoxicillin-clavulanate 875/125 mg twice daily plus doxycycline 100 mg twice daily**. The beta-lactam alternative can be cefpodoxime 200 mg twice daily or cefuroxime 500 mg twice daily; the partner can instead be azithromycin 500 mg on day 1 then 250 mg daily. Another complete strategy is respiratory-fluoroquinolone monotherapy, such as levofloxacin 750 mg daily, when its benefits outweigh harms. Do not combine all these alternatives. Renal impairment changes several doses; QT/interactions, C. difficile, tendon/neurologic and vascular risks affect selection. Pregnancy needs a pregnancy-compatible regimen, generally beta-lactam/macrolide selection rather than routine doxycycline or fluoroquinolone use. [ATS/IDSA outpatient regimens](https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/executive_summary.pdf)
+
+Aspiration pneumonitis can be chemical injury rather than bacterial infection. Do not routinely add anaerobic coverage to every suspected aspiration event; abscess or empyema changes that assessment. A patient with swallowing dysfunction may also need swallowing evaluation and prevention, not just repeated antibiotics. Suspected MRSA/Pseudomonas disease or major immune compromise requires a more specific pathway and often hospital/specialist care. [Initial CAP treatment framework](https://pmc.ncbi.nlm.nih.gov/articles/PMC6812437/)
+
+A positive viral test does not automatically exclude bacterial coinfection. Under the current ATS update, otherwise healthy viral-positive outpatients with clinical/imaging CAP may avoid antibiotics after individualized assessment; ATS conditionally favors antibacterial treatment when important comorbidities increase risk. **IDSA does not endorse automatic treatment of every viral-positive comorbid outpatient or nonsevere inpatient**, favoring individual evidence of coinfection. Assess severity, focal findings, biphasic deterioration, and reliable reassessment rather than treating either a positive test or a comorbidity list in isolation. [ATS focused update](https://doi.org/10.1164/rccm.202507-1692ST) [IDSA position](https://academic.oup.com/cid/article/82/4/622/8364653)
+
+The ATS update conditionally supports **3 to fewer than 5 effective treatment days** for selected immunocompetent adults with outpatient or nonsevere inpatient CAP who reach clinical stability. This requires a planned reassessment, not an automatic three-day stop. Stability assessment includes temperature at most 37.8 C, heart rate below 100/min, respiratory rate below 24/min, systolic pressure at least 90 mm Hg, normal mentation, and recovered oxygenation, together with oral intake and clinical recovery. New oxygen need, severe/complicated disease, unusual pathogens, chronic respiratory insufficiency, immune compromise, or failure to improve argues against applying the short-course rule. Long-acting macrolide exposure also makes tablet days different from effective treatment days. Severe CAP generally needs at least 5 days, individualized to response and complications. Routine systemic corticosteroids are not outpatient CAP treatment; selected severe noninfluenza CAP is a hospital-level decision. [ATS duration and stability criteria](https://doi.org/10.1164/rccm.202507-1692ST)
+
+Arrange a risk-based early check, often within 48-72 hours. Worsening breathlessness, persistent fever, confusion, inability to drink, chest pain, or falling oxygenation requires reassessment. Cough/fatigue may linger, but deterioration, persistent focal symptoms, hemoptysis, or repeated same-site pneumonia warrants investigation and possible imaging for obstruction, separate from screening.
+
+### Keep uncomplicated bronchitis separate from pneumonia
+
+See 03A for uncomplicated bronchitis assessment and antibiotic avoidance. Distinguish it from pneumonia and other dangerous processes; sputum color alone does not establish bacterial disease. [CDC outpatient antibiotic stewardship](https://www.cdc.gov/antibiotic-use/hcp/clinical-care/adult-outpatient.html)
+
+Use bronchodilators for demonstrated bronchospasm rather than routine inhalers or systemic steroids for viral cough. Persistent/recurrent symptoms warrant assessment for asthma, COPD exacerbation, pertussis, or postinfectious cough under 03A.
+
+### Treat influenza early when risk or severity warrants it
+
+Influenza and COVID overlap clinically, and coinfection is possible. During circulation, consider testing that can change antiviral or infection-control decisions. A positive result for one does not exclude the other. Do not wait for laboratory confirmation before starting indicated influenza treatment in hospitalized patients, severe/progressive illness, or people at increased complication risk. The greatest benefit is early, but these groups may benefit even beyond 48 hours. For otherwise healthy uncomplicated outpatients, treatment is considered when it can begin within 2 days. [CDC influenza treatment priorities](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html)
+
+For uncomplicated influenza in an adult with creatinine clearance above 60 mL/min, oral oseltamivir is **75 mg twice daily for 5 days**. CDC reduces treatment dosing to 30 mg twice daily at creatinine clearance 31-60 and 30 mg once daily at 11-30 mL/min; dialysis uses a separate schedule. Pediatric doses use age/weight, not the adult renal table alone. Oseltamivir is generally preferred for hospitalized or progressive influenza, where duration may differ. Inhaled zanamivir is unsuitable in asthma/COPD because of bronchospasm. Baloxavir is an option for eligible uncomplicated cases from age 5: a single oral dose of 40 mg at 20 to less than 80 kg or 80 mg at 80 kg or more. Lower weights require the specified suspension formulation and availability check. Avoid coadministration with polyvalent-cation products. It is not routine severe/hospitalized treatment. [CDC antiviral doses and eligibility](https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html)
+
+Pregnancy and the first 2 weeks postpartum, including after pregnancy loss, increase complication risk. CDC favors prompt oseltamivir treatment for suspected or confirmed influenza of any severity during this period; a delayed test should not postpone care. Baloxavir is not recommended in pregnancy or breastfeeding because of insufficient data. Persistent or recurrent fever, hypoxemia, pleuritic pain, or deterioration after improvement needs reassessment for secondary pneumonia or another complication. Influenza vaccination is preventive, not an alternative to indicated treatment once illness occurs. [CDC obstetric influenza guidance](https://www.cdc.gov/flu/hcp/antivirals/treatment_obstetric.html)
+
+### Evaluate COVID treatment eligibility before the window closes
+
+For mild/moderate COVID, assess age, immune status, comorbidities, vaccination history, onset date, medication interactions, kidney/liver function, and access to treatment. Benefit is concentrated in patients at risk for progression, not every young healthy person with a positive test. New hypoxemia, severe dyspnea, confusion, dehydration, or chest pain needs a severity assessment rather than just a prescription. [CDC outpatient treatment guidance](https://www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html)
+
+| Adult outpatient option | Time-sensitive distinction |
+| --- | --- |
+| Nirmatrelvir-ritonavir | Start within 5 days; review interactions and use the correct renal regimen. |
+| Three-day IV remdesivir | Start within 7 days; confirm infusion access and required pretreatment assessment. |
+| Molnupiravir | Selected adult alternative when preferred options are inappropriate/unavailable; avoid in pregnancy and review reproductive precautions. |
+
+Ritonavir inhibits CYP3A. Reconcile antiarrhythmics, anticoagulants, transplant drugs, anticonvulsants, statins, and nonprescription products. Some interactions permit supervised adjustment; others require another antiviral. A five-day hold may not resolve an interaction; never stop a critical drug without a plan.
+
+Current US Paxlovid labeling includes severe renal impairment and hemodialysis, so kidney disease is **not an automatic prohibition**. For eligible adults, the 5-day oral regimens are:
+
+| eGFR, mL/min | Nirmatrelvir plus ritonavir taken together |
+| --- | --- |
+| At least 60 | 300 mg plus 100 mg twice daily |
+| 30 to less than 60 | 150 mg plus 100 mg twice daily |
+| Below 30, including hemodialysis | Day 1: 300 mg plus 100 mg once; days 2-5: 150 mg plus 100 mg once daily |
+
+On dialysis days, give after dialysis. Severe hepatic impairment (Child-Pugh C) remains a reason not to use it. Dose reduction does not solve a contraindicated interaction. [US Paxlovid label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a99d6d6-fd9e-45bb-b1bf-48c7f761232a)
+
+Remdesivir can be an option when interactions prevent oral treatment and is usable in renal impairment under its current label. Check liver-related precautions and the current product instructions. Molnupiravir has lower efficacy and is not interchangeable with preferred therapy. Systemic corticosteroids are not routine treatment for uncomplicated nonhypoxemic COVID, although another disease can independently require them. Rebound symptoms require assessment and transmission precautions; concern about rebound alone should not deny an indicated initial antiviral. [Current COVID management framework](https://www.cdc.gov/covid/hcp/clinical-care/management-and-treatment.html)
+
+### Recognize pertussis without requiring a classic whoop
+
+Pertussis begins with upper-respiratory symptoms before paroxysms, post-tussive vomiting, or whoop. Adults and vaccinated patients may lack classic findings; infants may have apnea with little cough. Assess exposure to infants, pregnant patients near delivery, and vulnerable contacts.
+
+Use a properly collected nasopharyngeal specimen. Culture has its best yield early, usually within the first 2 weeks of cough; PCR is useful through approximately 3-4 weeks, with declining sensitivity later. A late negative test does not erase a compelling exposure history. Interpret test timing, antibiotic exposure, and clinical probability together. [CDC pertussis laboratory guidance](https://www.cdc.gov/pertussis/php/laboratories/)
+
+Macrolides are usual treatment. One adult regimen is oral azithromycin 500 mg on day 1, then 250 mg daily on days 2-5, after QT/interaction review. Early treatment can reduce severity; late antibiotics do not reliably end an established cough. CDC generally treats people at least 1 year old within 3 weeks of cough onset, and infants under 1 year and pregnant patients, especially near term, within 6 weeks. Infant drug selection is separate: azithromycin is preferred even below 1 month when indicated, with monitoring for infantile hypertrophic pyloric stenosis. [CDC pertussis treatment](https://www.cdc.gov/pertussis/hcp/clinical-care/index.html) [CDC antimicrobial regimen](https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5414a1.htm)
+
+Use droplet precautions in healthcare and coordinate public-health advice. A treated patient is generally considered no longer contagious after 5 days of effective antibiotics; untreated symptomatic healthcare personnel are excluded for 21 days after cough onset. CDC supports prophylaxis for asymptomatic household contacts within 21 days of the index patient's cough onset, and high-risk exposed people or those who will contact them within 21 days of exposure. Vaccination does not remove these indications. Symptomatic contacts need assessment as possible cases, not only prophylaxis. [CDC contact prophylaxis](https://www.cdc.gov/pertussis/php/postexposure-prophylaxis/) [CDC healthcare precautions](https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/pertussis.html)
+
+### Recognize TB, malignancy, and consequential hemoptysis
+
+Prolonged cough, fever, night sweats, weight loss, hemoptysis, immune compromise, and relevant exposure or epidemiology can raise concern for pulmonary TB. Infection testing with IGRA or skin testing does not distinguish latent infection from active disease, and a negative result does not reliably exclude active disease in a symptomatic patient. Obtain appropriate imaging and sputum studies, including molecular testing, smear, culture, and susceptibility testing as indicated. Arrange respiratory precautions and public-health coordination promptly. [CDC active-TB evaluation](https://www.cdc.gov/tb/hcp/testing-diagnosis/clinical-and-laboratory-diagnosis.html)
+
+Exclude active TB before latent-infection therapy; never improvise single-drug treatment for suspected active disease. Drug-susceptible and resistant TB require distinct multidrug regimens with specialist/public-health monitoring and contact investigation (09C).
+
+Confirm whether blood comes from the lower respiratory tract rather than the nose, mouth, or GI tract. The immediate danger of hemoptysis depends on airway protection, gas exchange, bleeding rate, hemodynamics, and underlying reserve, not a single estimated volume cutoff. Ongoing major bleeding or physiologic compromise needs emergency airway and interventional assessment. Stable lesser bleeding still needs evaluation for infection, bronchiectasis, tumor, PE, and other causes.
+
+Radiography and contrast-enhanced CT/CT angiography have roles selected to the presentation; bronchoscopy may help localize bleeding, assess the airway, or obtain tissue. Recurrent bleeding, persistent focal disease, unexplained weight loss, or a suspicious lesion warrants prompt referral even with an initially unrevealing radiograph. A patient with symptoms needs diagnostic evaluation rather than waiting to qualify for a screening CT. [ACR hemoptysis assessment](https://acsearch.acr.org/docs/69449/Narrative)
+
+### Recognize pleural, suppurative, and interstitial disease
+
+Pleural effusion can cause dyspnea, pleuritic discomfort, reduced breath sounds, and dullness. Ultrasound confirms fluid and guides sampling. New unexplained unilateral fluid, suspected infection/malignancy, or an atypical course often warrants sampling with paired serum measurements. Light's criteria classify exudates, but diuresed HF complicates interpretation; HF does not explain every effusion.
+
+Light's criteria classify fluid as exudative when any one is present: pleural/serum protein ratio above 0.5, pleural/serum LDH ratio above 0.6, or pleural LDH above two thirds of the serum LDH upper limit. This suggests inflammation, infection, malignancy, or a related process; investigate the cause rather than stopping at classification. [BTS effusion classification](https://www.brit-thoracic.org.uk/document-library/guidelines/pleural-disease/bts-guideline-for-pleural-disease-appendix-1-clinical-pathwaysdecision-trees/)
+
+Pus or convincing microbiologic evidence of pleural infection requires drainage assessment plus antibiotics. When fluid is not purulent, measure pH promptly. Under BTS, pH at most 7.2 supports drainage if ultrasound shows safely accessible fluid. At pH above 7.2 but below 7.4, assess LDH: above 900 IU/L supports considering drainage, particularly with ongoing fever, substantial fluid, low glucose, septations, or pleural enhancement. At pH at least 7.4, immediate drainage is not ordinarily indicated from pH alone; monitor and reassess if recovery fails. Local anesthetic/heparin contamination can lower pH and delay can raise it, so collection matters. These are adult pleural-infection decisions, not universal rules for every exudate. Antibiotic escalation alone does not replace source control. Suspected tension pneumothorax with instability requires emergency treatment without waiting for a routine radiograph. [BTS pleural-disease guidance](https://thorax.bmj.com/content/early/2023/08/08/thorax-2023-220304)
+
+Bronchiectasis is persistent bronchial dilation with impaired clearance, inflammation, and recurrent infection. Suspect it with substantial chronic sputum, repeated infections, hemoptysis, or persistent pathogenic cultures; confirm with CT and investigate the cause. Teach airway clearance and obtain appropriate exacerbation cultures. Long-term antibiotics/newer therapies require specialist selection. [Current ERS bronchiectasis guideline](https://publications.ersnet.org/content/erj/66/6/2501126)
+
+Sudden unilateral pleuritic pain with reduced air entry raises concern for spontaneous pneumothorax. Arrange urgent assessment and chest imaging when stable; instability with suspected tension remains a clinical emergency. Treatment depends on symptoms, physiology, underlying disease, and available follow-up, not size alone. A carefully selected minimally symptomatic primary spontaneous pneumothorax may be observed under a structured service, whereas underlying lung disease, significant hypoxemia, or hemodynamic compromise requires a higher-risk pathway. Observation is not permission to send home an undifferentiated breathless patient. [BTS pneumothorax pathway](https://www.brit-thoracic.org.uk/document-library/guidelines/pleural-disease/bts-guideline-for-pleural-disease-appendix-1-clinical-pathwaysdecision-trees/)
+
+Progressive exertional dyspnea, dry cough, fine inspiratory crackles, desaturation, or clubbing suggests interstitial disease. Assess home/work exposures, drugs, and connective-tissue symptoms. Restriction/low diffusion describes physiology, not cause. HRCT and multidisciplinary evaluation distinguish idiopathic, exposure-related, autoimmune, and drug-associated disease; avoid indiscriminate prolonged steroids. [ATS/ERS fibrosis framework](https://www.thoracic.org/statements/guideline-implementation-tools/matrix-guidelines-and-derivatives-ipf-update.php)
+
+### A trajectory-based reassessment example
+
+**Clinical Case.** A 62-year-old briefly improves after fever and cough, then develops pleuritic pain and breathlessness. Saturation falls below baseline; imaging shows an infiltrate with adjacent fluid. Arrange hospital assessment of CAP severity, treatment, and pleural sampling/drainage needs.
+
+Follow-up assesses breathing, intake, function, treatment completion, and unresolved imaging. Persistent focal symptoms require investigation rather than repeated antibiotic extensions.

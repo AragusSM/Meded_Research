@@ -128,8 +128,8 @@ The verified key is saved only in this browser's local storage. Use **Clear save
 ## 6. Explore the built-in database
 
 1. Open **Explore database**.
-2. Select **MedVale IM · All Internal Medicine** or a chapter collection.
-3. Select **Documents & chunks** to browse source passages and PDF pages.
+2. Select **MedVale IM · All Internal Medicine**, **MedVale FM · All Family Medicine**, or a module collection.
+3. Select **Documents & chunks** to browse source passages and open the original PDFs or Markdown files.
 4. Select **Graph** to explore concepts and relationships.
 5. Left-drag to pan, right-drag to rotate, and use the mouse wheel to zoom.
 6. Select a concept to see its description, properties, and top three source passages. Select **Show all** to reveal more.

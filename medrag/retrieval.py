@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import pickle
 import re
 from pathlib import Path
 from typing import Any
@@ -8,6 +7,7 @@ from typing import Any
 from sklearn.metrics.pairwise import cosine_similarity
 
 from .database import connect
+from .vector_store import load_vector_store
 
 
 VALID_MODES = {"document", "vector", "graph", "hybrid"}
@@ -18,16 +18,14 @@ def _chunk_evidence(chunk: dict[str, Any], score: float, source: str) -> dict[st
 
 
 def vector_retrieve(collection_dir: Path, query: str, k: int = 8) -> list[dict[str, Any]]:
-    with (collection_dir / "vectors.pkl").open("rb") as handle:
-        store = pickle.load(handle)
+    store = load_vector_store(collection_dir)
     scores = cosine_similarity(store["vectorizer"].transform([query]), store["matrix"])[0]
     ids = scores.argsort()[::-1][:k]
     return [_chunk_evidence(store["chunks"][int(i)], scores[int(i)], "vector") for i in ids if scores[int(i)] > 0]
 
 
 def document_retrieve(collection_dir: Path, k: int = 8) -> list[dict[str, Any]]:
-    with (collection_dir / "vectors.pkl").open("rb") as handle:
-        chunks = pickle.load(handle)["chunks"]
+    chunks = load_vector_store(collection_dir)["chunks"]
     return [_chunk_evidence(c, 0.0, "document") for c in chunks[:k]]
 
 
@@ -73,4 +71,3 @@ def retrieve(collection_dir: Path, query: str, mode: str, k: int = 8) -> list[di
             seen.add(key)
             merged.append(item)
     return merged
-

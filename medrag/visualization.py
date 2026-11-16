@@ -1,10 +1,11 @@
 from __future__ import annotations
 
-import pickle
 from pathlib import Path
 from typing import Any
 
 from sklearn.decomposition import TruncatedSVD
+
+from .vector_store import load_vector_store
 
 
 def _scale(values: list[float]) -> list[float]:
@@ -17,11 +18,7 @@ def _scale(values: list[float]) -> list[float]:
 
 
 def collection_visualization(collection_dir: Path, limit: int = 300) -> dict[str, Any]:
-    vector_path = collection_dir / "vectors.pkl"
-    if not vector_path.exists():
-        raise FileNotFoundError(f"collection has no vector index: {collection_dir.name}")
-    with vector_path.open("rb") as handle:
-        store = pickle.load(handle)
+    store = load_vector_store(collection_dir)
     chunks = store["chunks"][:limit]
     matrix = store["matrix"][:len(chunks)]
     if not chunks:

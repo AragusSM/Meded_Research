@@ -2,17 +2,15 @@ from __future__ import annotations
 
 import hashlib
 import json
-import pickle
 import re
 import time
 from pathlib import Path
 from typing import Any
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-
 from .database import connect, reset_content
 from .providers import LLMProvider, ProviderError
 from .readers import chunk_sections, discover_documents, read_document
+from .vector_store import write_vector_store
 
 
 GRAPH_SYSTEM = """You extract a medical knowledge graph strictly from supplied text.
@@ -112,7 +110,7 @@ def _extract_graph(provider: LLMProvider, text: str, attempts: int = 4) -> dict[
 
 
 def index_directory(collection_dir: Path, document_dir: Path, provider: LLMProvider | None, build_graph: bool) -> dict[str, Any]:
-    db_path, vector_path = collection_dir / "knowledge.sqlite3", collection_dir / "vectors.pkl"
+    db_path = collection_dir / "knowledge.sqlite3"
     files = discover_documents(document_dir)
     if not files:
         raise ValueError("no supported PDF, DOCX, TXT, or Markdown documents found")
@@ -147,10 +145,7 @@ def index_directory(collection_dir: Path, document_dir: Path, provider: LLMProvi
                     graph_errors += 1
                     graph_error_details.append({"chunk_id": chunk_id, "error": str(exc)[:500]})
         conn.commit()
-    vectorizer = TfidfVectorizer(lowercase=True, stop_words="english", ngram_range=(1, 2), max_features=100_000)
-    matrix = vectorizer.fit_transform([c["text"] for c in chunk_records])
-    with vector_path.open("wb") as handle:
-        pickle.dump({"vectorizer": vectorizer, "matrix": matrix, "chunks": chunk_records}, handle)
+    write_vector_store(collection_dir, chunk_records)
     manifest = {"schema_version": "medivale_graph_v1", "documents": len(files), "chunks": len(chunk_records), "graph_node_mentions": graph_nodes, "graph_edges": graph_edges, "graph_errors": graph_errors, "graph_error_details": graph_error_details[:50], "provider": getattr(provider, "name", None), "model": getattr(provider, "model", None)}
     (collection_dir / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     conn.close()

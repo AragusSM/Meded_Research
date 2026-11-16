@@ -7,7 +7,7 @@
 
 MedVale RAG Lab is a local web application for building and evaluating medical retrieval systems. It compares document-order, vector, graph, and hybrid vector-plus-graph retrieval while keeping each tester's model credentials under their control.
 
-The repository contains no MedVale game logic. It includes the standalone research application, tests, graph viewer, and the built-in MedVale internal-medicine knowledge base.
+The repository includes the standalone research application, tests, graph viewer, and the built-in MedVale Internal Medicine and Family Medicine knowledge bases.
 
 > Research and educational software only. Generated medical content can be incomplete or incorrect and must not be used for patient care.
 
@@ -25,7 +25,7 @@ The repository contains no MedVale game logic. It includes the standalone resear
 - Generate original NBME-style one-best-answer clinical vignettes with five homogeneous answer choices, explanations, distractor rationales, educational objectives, and source evidence.
 - Reopen automatically saved generated questions.
 - Explore graph nodes, relationships, source passages, and rendered source-PDF pages.
-- Use the bundled MedVale internal-medicine graph and documents when no custom collection is available.
+- Use the bundled MedVale Internal Medicine and Family Medicine graphs and documents.
 
 ## Requirements
 
@@ -77,7 +77,7 @@ Verified browser settings—including the API key—are stored in that browser's
 
 On the first run, the application imports the canonical files in `bundled_data/` into generated collections under `data/`. This can take a little time. The `data/` directory is intentionally ignored by Git because it also contains tester uploads, generated indexes, SQLite run history, and saved questions.
 
-Built-in collections include all internal medicine plus individual chapter/module collections. They work for document browsing, graph exploration, and local retrieval without generating another graph. Natural-language answers and generated questions still require a verified model.
+Each specialty has an all-specialty collection and individual module collections. They support document browsing, graph exploration, and local retrieval. Natural-language answers and generated questions still require a verified model.
 
 ## Developer setup
 
@@ -99,7 +99,7 @@ Configuration defaults can be copied from `.env.example`, but browser users shou
 - `medrag/service.py`: answer and clinical-question generation
 - `medrag/database.py`: per-collection SQLite schema and run history
 - `medrag/static/` and `medrag/templates/`: browser interface and graph explorer
-- `bundled_data/`: canonical MedVale internal-medicine database and source PDFs
+- `bundled_data/`: MedVale source databases and their PDF or Markdown source documents
 - `tests/`: smoke and integration tests
 
 ## Research behavior
